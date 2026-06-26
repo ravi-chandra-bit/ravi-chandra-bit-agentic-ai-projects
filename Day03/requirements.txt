@@ -1,0 +1,8 @@
+# Day 3 — Contract clause search (RAG) + retrieval experiments
+# Install with:  python -m pip install -r requirements.txt
+# Mirrors the notebook's setup cell (current versions, no old pins).
+
+sentence-transformers   # embedding model (all-MiniLM-L6-v2); pulls in PyTorch
+faiss-cpu               # vector similarity index (IndexFlatIP)
+numpy>=2                # vector math; FAISS needs float32 arrays
+matplotlib              # charts produced by rag_experiments.py
