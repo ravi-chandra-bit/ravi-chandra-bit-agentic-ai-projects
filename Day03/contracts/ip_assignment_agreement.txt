@@ -1,0 +1,784 @@
+﻿SOURCE: U.S. SEC EDGAR
+FILER: World Technology Corp.  (CIK 0001568693)
+EXHIBIT TYPE: EX-10.1
+URL: https://www.sec.gov/Archives/edgar/data/1568693/000114420418038367/tv497353_ex10-1.htm
+RETRIEVED: 2026-06-16
+======================================================================
+
+EX-10.1
+10
+tv497353_ex10-1.htm
+EXHIBIT 10.1
+
+Exhibit 10.1
+
+Stock
+Exchange,
+
+Debt Forgiveness
+
+and
+
+Intellectual
+Property Assignment
+
+Agreement
+
+This Stock Exchange,
+Debt Forgiveness and Intellectual Property Assignment Agreement (“ Agreement ”), dated as of October 1, 2017
+(the “Effective Date”), is entered into by and among World Media & Technology Corp., a Nevada corporation (“WRMT”
+or the “Assignee”), Fabio Galdi, an Italian citizen (“FG”), and World Global Network Pte. Ltd., a limited
+private company incorporated in Singapore, and its wholly owned subsidiary, World Global Assets Pte. Ltd., a limited private company
+incorporated in Singapore (collectively, World Global Network Pte. Ltd., World Global Assets Pte. Ltd. and FG shall be referred
+to herein as “WGN” or the “Assignor”) (each a “Party” and altogether, the “Parties”).
+
+RECITALS
+
+Whereas,
+the Parties desire to amend and restructure certain of the business transactions between and among themselves on the
+terms and subject to the conditions set forth in this Agreement; and
+
+Whereas ,
+WRMT desires to issue 8,000,000 shares of WRMT’s common stock, par value $0.001 per share (“Common Stock”)
+to WGN, to transfer 350 ordinary shares of common stock of PayNovi Limited, an Irish corporation (the “PayNovi Shares”)
+to WGN and forgive the remaining outstanding balance ($1,140,506) owed by WGN for borrowed money in consideration for:
+
+(i) FG’s return to WRMT for cancellation the 100 shares
+of WRMT’s Series A Super Voting Preferred Stock held by FG,
+
+(ii) the forgiveness by FG of amounts owed by WRMT to FG for
+past services rendered in the aggregate amount of $150,000,
+
+(iii) WGN’s assignment and transfer to WRMT of all of its
+right, title and interest in and to certain Technology (as hereinafter defined), Intellectual Property (as hereinafter defined)
+and Intellectual Property Rights (as hereinafter defined), each as described on Exhibit A hereto
+
+(iv) WGN and FG agree not to source, promote or enter in to
+any agreement for any technology similar to the Technology from any supplier other than WRMT and
+
+(v) WGN’s agreement to terminate and forego its exclusive
+relationship with Quality Technology Industrial Co. Ltd. for the Technology and to purchase Helo Devices directly from WRMT upon
+the terms and subject to the conditions set forth in the Strategic Partner Master Sales and World Wide Distribution Agreement
+attached hereto as Exhibit B (the “Exclusive Distributor Agreement”).
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 2 of 18
+
+Now,
+Therefore, in consideration of the premises and of the covenants, representations, warranties and agreements
+herein contained, the Parties have agreed as follows:
+
+AGREEMENT
+
+Section
+1. Construction and Interpretation
+
+1.1. Principles
+of Construction.
+
+(a) All references
+to Articles, Sections, subsections, Schedules and Appendixes are to Articles, Sections, subsections, Schedules and Appendixes in
+or to this Agreement unless otherwise specified. The words “hereof,” “herein” and “hereunder”
+and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision
+of this Agreement. The term “including” is not limiting and means “including without limitations.”
+
+(b) The Section
+headings herein are for convenience only and shall not affect the construction hereof.
+
+(c) This Agreement
+is the result of negotiations among the Parties and has been reviewed by each Party’s counsel. Accordingly, this Agreement
+shall not be construed against any Party merely because of such Party’s involvement in its preparation.
+
+(d) Wherever
+in this Agreement the intent so requires, reference to the neuter, masculine or feminine shall be deemed to include each of the
+other, and reference to either the singular or the plural shall be deemed to include the other.
+
+1.2 Definitions.
+For purposes hereof, the following terms when used herein shall have the respective meaning set forth below.
+
+“Assigned
+Property” means the property listed in Exhibit A and all Technology, Intellectual Property and Intellectual Property
+Rights forming a part of, embodied, in or necessary for use of the property.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 3 of 18
+
+“ Intellectual
+Property ” means all technology and intellectual property, regardless of form, including without limitation: published
+and unpublished works of authorship, including without limitation audiovisual works, collective works, computer programs, compilations,
+databases, derivative works, literary works, maskworks, and sound recordings (“ Works of Authorship ”); inventions
+and discoveries, including without limitation articles of manufacture, business methods, compositions of matter, improvements,
+machines, methods, and processes and new uses for any of the preceding items (“ Inventions ”); words, names,
+symbols, devices, designs, and other designations, and combinations of the preceding items, used to identify or distinguish a
+business, good, group, product, or service or to indicate a form of certification, including without limitation logos, product
+designs, and product features (“ Trademarks ”); and information that is not generally known or readily ascertainable
+through proper means, whether tangible or intangible, including without limitation algorithms, customer lists, ideas, designs,
+formulas, know-how, methods, processes, programs, prototypes, systems, and techniques (“ Confidential Information ”).
+
+“ Intellectual
+Property Rights ” means all rights in, arising out of, or associated with Intellectual Property in any jurisdiction,
+including without limitation: rights in, arising out of, or associated with Works of Authorship, including without limitation
+rights in maskworks and databases and rights granted under the Copyright Act (“ Copyrights ”); rights in, arising
+out of, or associated with Inventions, including without limitation rights granted under the Patent Act (“ Patent Rights ”);
+rights in, arising out of, or associated with Trademarks, including without limitation rights granted under the Lanham Act (“ Trademark
+Rights ”); rights in, arising out of, or associated with Confidential Information, including without limitation rights
+granted under the Uniform Trade Secrets Act (“ Trade Secret Rights ”); rights in, arising out of, or associated
+with a person’s name, voice, signature, photograph, or likeness, including without limitation rights of personality, privacy,
+and publicity (“ Personality Rights ”); rights of attribution and integrity and other moral rights of an author
+(“ Moral Rights ”); and rights in, arising out of, or associated with domain names (“ Domain Name Rights ”).
+
+“Lien”
+means any mortgage, charge, adverse right or claim, lien, lease, option, pledge, security interest, deed of trust, right of
+first refusal, easement, encumbrance, servitude, proxy, voting trust or restriction of any kind, including any restriction on use,
+voting, transfer, receipt of income, or exercise of any other attribute of ownership.
+
+“Technology”
+means any and all technical information, Software, specifications, drawings, records, documentation, works of authorship or
+other creative works, ideas, knowledge, know-how, trade secrets invention disclosures or other data including works subject to
+Copyrights and maskworks (but does not include Trademarks or Patents.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 4 of 18
+
+Section
+2. The Transaction
+
+2.1. Consideration.
+WRMT hereby agrees to issue Eight Million (8,000,000) shares of restricted Common Stock (the “Acquired Shares”) to
+WGN in reliance on the representations and warranties contained herein, WRMT agrees to transfer the PayNovi Shares to WGN, and
+WRMT hereby agrees to forgive the total remaining outstanding balance of $1,140,506 due from WGN, subject to the terms and conditions
+of this Agreement, and in exchange,
+
+i) FG
+agrees to return to WRMT for cancellation the 100 shares of WRMT Series A Super Voting Preferred Stock held by FG,
+
+ii) FG
+agrees to forgive amounts owed by WRMT to FG for past services rendered in the aggregate amount of $150,000,
+
+iii) WGN
+agrees to assign and transfer all of its right, title and interest in and to the Assigned Property to WRMT
+
+iv) WGN
+and FG agree not to source, promote or enter in to any agreement for any technology similar to the Technology from any supplier
+other than WRMT, and
+
+v) WGN
+agrees to terminate and forego its exclusive relationship with Quality Technology Industrial Co. Ltd. (“QTI”) and purchase
+Helo Devices directly from WRMT upon the terms and subject to the conditions set forth in the Exclusive Distributor Agreement attached
+hereto as Exhibit B.
+
+2.2. Return
+of WRMT Series A Super Voting Preferred Stock; Issuance of WRMT Common Stock. On the Effective Date, simultaneously with the return
+to WRMT by FG of the 100 shares of WRMT Series A Super Voting Preferred Stock held by FG, which shares shall be duly endorsed for
+transfer to WRMT with executed stock powers and a medallion guaranteed attached, WRMT shall issue to WGN 8,000,000 shares of WRMT
+restricted Common Stock and WRMT shall transfer the PayNovi Shares to WGN. WGN shall provide written notice to WRMT no later than
+two business days prior to the Effective Date of the names and share amounts in which the certificates representing the Acquired
+Shares shall be issued on the Effective Date.
+
+2.3. Debt
+Forgiveness. Immediately upon the Effective Date, WRMT hereby forgives $1,140,506, the total amount currently due and outstanding
+from WGN forgives $150,000, the total amount currently owed from WRMT to FG for past services rendered.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 5 of 18
+
+2.4 Property
+Assignment. Assignor hereby perpetually, irrevocably, and unconditionally assigns, transfers, and conveys to Assignee and its successors
+and assigns, all of Assignor’s right, title, and interest in and to the Assigned Property. Assignor further perpetually,
+irrevocably, and unconditionally assigns, transfers, and conveys to Assignee and its successors and assigns all claims for past,
+present and future infringement or misappropriation of the Intellectual Property Rights included in the Assigned Property, including
+all rights to sue for and to receive and recover all profits and damages accruing from an infringement misappropriation prior to
+the Effective Date as well as the right to grant releases for past infringements. Assignor hereby waives and agrees not to enforce
+all Moral Rights and all Personality Rights that Assignor may have in the Assigned Property. On the Effective Date, WRMT shall
+exclusively own all right, title, and interest in and to the Assigned Property.
+
+2.5 Confidentiality.
+Assignor agrees that it shall not use any Confidential Information assigned as part of the Assigned Property except with the permission
+of Assignee for the benefit of Assignee. Assignor agrees that it shall not disclose any Confidential Information to third parties.
+Assignor agrees to take reasonable steps to maintain the confidentiality and secrecy of such Confidential Information and to prevent
+the unauthorized use or disclosure of such Confidential Information. Any breach of these restrictions will cause irreparable harm
+to Assignee and will entitle Assignee to injunctive relief in addition to all applicable legal remedies.
+
+2.6 Exclusive
+Distributor. On the Effective Date (i) WGN shall terminate all of its Helo Device related supplier/manufacturing/distributor and
+licensing agreements, written or otherwise, with QTI effective as of midnight on September 30, 2017 (the “Transfer Time”)
+and (ii) WRMT and WGN shall execute and deliver the Exclusive Distributor Agreement,. As of the Transfer Time, WGN shall no longer
+purchase any Helo Devices directly from QTI or any technology similar to the Technology from any party other than WRMT. Instead,
+as of the Transfer Time WGN shall purchase all Helo Devices exclusively from WRMT upon price and other terms set forth in Exhibit
+B. At the Transfer Time WGN hereby agrees that all of WGN’s rights to Helo Device stock, components in assembly, raw materials
+and manufacturing moulds located at QTI’s facilities shall be assigned, transferred to and owned by WRMT.
+
+Stock Exchange, Debt Forgiveness
+And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 6 of 18
+
+Section
+3. Representations and Warranties
+
+3.1. Representations
+and Warranties of WRMT. WRMT hereby makes the following representations and warranties to WGN:
+
+3.1.1 WRMT
+is a corporation duly organized and validly existing and in good standing under the laws of the State of Nevada. WRMT has the full
+right and all necessary corporate power and authority to conduct its business as it is presently being conducted and to execute
+and deliver this Agreement and the Exclusive Distributor Agreement and each instrument required to be executed and delivered by
+it in connection herewith and therewith and to perform its obligations hereunder and thereunder and to consummate the transactions
+contemplated hereby and thereby. Copies of the Articles of Incorporation and Bylaws of WRMT, and all amendments thereto, heretofore
+delivered to WGN are accurate and complete as of the date hereof.
+
+3.1.2 The
+execution, delivery and performance of this Agreement and the Exclusive Distributor Agreement by WRMT and the consummation by
+it of the transactions contemplated hereby and thereby have been duly authorized by all necessary corporate action of WRMT,
+and no other corporate proceedings on the part of WRMT are necessary to authorize this Agreement, the Exclusive Distributor
+Agreementor any instrument required to be executed and delivered by it in connection therewith on or prior to the Effective
+Date or the consummation of the transactions contemplated hereby. Each of this Agreement and the Exclusive Distributor
+Agreement has been duly authorized, executed and delivered by WRMT and constitutes, a valid and binding obligation of WRMT
+enforceable against WRMT in accordance with its terms.
+
+3.1.3 WRMT
+has full corporate power to issue and deliver the Acquired Shares to WGN in accordance with the terms of this Agreement and the
+issuance of the Acquired Shares in accordance with the terms of this Agreement has been duly authorized by the Board of Directors
+of WRMT. When issued in accordance with the terms of this Agreement, the Acquired Shares will be validly issued, fully paid and
+non-assessable and free and clear of all liens, encumbrances and restrictions on transfer other than those restrictions on transfer
+under the Securities Act of 1933, as amended and any applicable state securities laws.
+
+3.1.4 The
+authorized capitalization of WRMT consists of 75,000,000 shares of Common Stock, and 10,000 shares of preferred stock, $0.001 par
+value per share. Immediately prior to the Effective Date there were issued and outstanding 28,722,244 shares of Common Stock and
+100 shares of Series A Super Voting Preferred Stock.
+
+3.1.5 As
+of the Effective Date, the Note being forgiven by WRMT hereunder has not been sold, assigned or repaid, and there is a $1,140,506
+balance due on the Note, free and clear of all liens, mortgages, pledges, security interests, encumbrances or charges of any kind
+or description.
+
+Stock Exchange, Debt Forgiveness
+And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 7 of 18
+
+3.1.6 As
+of the Effective Date, WRMT is the sole record holder and sole beneficial owner of the PayNovi Shares and has full corporate power
+to transfer and deliver the PayNovi Shares to WGN in accordance with the terms of this Agreement and this transfer has been duly
+authorized by the Board of Directors of WRMT. WRMT has good and valid title to the PayNovi Shares free and clear of all liens,
+encumbrances, pledges, claims, options, charges and assessments of any nature whatsoever, with full right and lawful authority
+to transfer the PayNovi Shares to WGN. No person has any preemptive right or right of first refusal with respect to any of the
+PayNovi Shares. There exists no voting agreement, voting trust, or outstanding proxy with respect to any of the PayNovi Shares.
+There are no outstanding rights, options, warrants, calls, commitments, or any other agreements of any character, whether oral
+or written, with respect to the PayNovi Shares.
+
+3.2. Representations
+and Warranties of FG. FG hereby makes the following representations and warranties to WRMT:
+
+3.2.1 Title
+to the Shares . FG is the sole record holder and sole beneficial owner of 100 shares of Series A Super Voting Preferred Stock
+of WRMT (the “Shares”). FG has good and valid title to the Shares free and clear of all liens, encumbrances, pledges,
+claims, options, charges and assessments of any nature whatsoever, with full right and lawful authority to transfer the Shares
+to WRMT. No person has any preemptive right or right of first refusal with respect to any of the Shares. There exists no voting
+agreement, voting trust, or outstanding proxy with respect to any of the Shares. There are no outstanding rights, options, warrants,
+calls, commitments, or any other agreements of any character, whether oral or written, with respect to the Shares. The delivery
+to WRMT of certificates evidencing the transfer of the Shares pursuant to the provisions of this Agreement will transfer to WRMT
+good and marketable title thereto, free and clear of all liens, encumbrances, restrictions and claims of any kind.
+
+3.2.2 The
+$150,000 amount being forgiven by FG hereunder has not been sold, assigned or repaid and is the total balance currently due to
+FG as of the Effective Date. FG hereby releases, waives and forever discharges, individually and collectively, WRMT and its current
+or former officers, directors, employees, agents, affiliates, predecessors, successors, assigns, subsidiaries and all persons acting
+through or with them (hereinafter collectively referred to as the “Releases”), from any and all claims, rights, demands,
+liabilities, causes of action, losses, counterclaims, obligations, third party claims, costs or expenses (including attorneys’
+fees) of any kind whatsoever, known or unknown, fixed or contingent, suspected or unsuspected, that FG may now have or has ever
+had against the Releases.
+
+Stock Exchange, Debt Forgiveness
+And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 8 of 18
+
+3.3 Representations
+and Warranties of WGN. WGN hereby makes the following representations and warranties to WRMT:
+
+3.3.1 WGN
+has the requisite corporate power and authority to enter into and perform this Agreement and the Exclusive Distributor Agreement,
+to assign the Intellectual Property and to purchase the Acquired Shares and the PayNovi Shares being sold and transferred to it
+hereunder. The execution, delivery and performance of this Agreement and the Exclusive Distributor Agreement, by WGN and the consummation
+by it of the transactions contemplated hereby and thereby have been duly authorized by all necessary action, and no further consent
+or authorization of WGN is required. Each of this Agreement and the Exclusive Distributor Agreement has been duly authorized, executed
+and delivered by WGN and constitutes, or shall constitute when executed and delivered, a valid and binding obligation of WGN enforceable
+against WGN in accordance with the terms thereof.
+
+3.3.2 WGN
+represents and warrants to Assignee that: Assignor exclusively owns all right, title, and interest in and to the Assigned Property;
+Assignor has not granted, other than to QTI, which rights shall be terminated and regranted by WRMT pursuant to Section 2.5 above,
+and will not grant any licenses or other rights to the Assigned Property to any third party; the Assigned Property is free of any
+liens, encumbrances, security interests, and restrictions on transfer; to Assignor’s knowledge, the Intellectual Property
+that is assigned as part of the Assigned Property does not infringe Intellectual Property Rights of any third party; and there
+are no legal actions, investigations, claims, or proceedings pending or threatened relating to the Assigned Property.
+
+3.3.3 Each
+of WGN and FG is, and will be at the time of the execution of this Agreement, a “accredited investor”, as such
+term is defined in Regulation D promulgated under the Securities Act of 1933, as amended (the “Securities Act”), is
+experienced in investments and business matters, has made investments of a speculative nature and has purchased securities of United
+States publicly-owned companies in the past and, with its representatives, has such knowledge and experience in financial, tax
+and other business matters as to enable WGN and FG to evaluate the merits and risks of and to make an informed investment decision
+with respect to the proposed purchase, which represents a speculative investment. Neither WGN nor FG is a “U.S. Person”
+as defined in Rule 902 of Regulation S promulgated under the Securities Act. WGN was not organized under the laws of any United
+States jurisdiction, and was not formed for the purpose of investing in securities not registered under the Securities Act. At
+the time the purchase order for this transaction was originated, each of WGN and FG was outside the United States. Each of WGN
+and FG has the authority and is duly and legally qualified to purchase and own the Acquired Shares. Each of FG and WGN is able
+to bear the risk of such investment for an indefinite period and to afford a complete loss thereof. The information set forth on
+the signature page hereto regarding each of FG WGN is accurate.
+
+Stock Exchange, Debt Forgiveness
+And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 9 of 18
+
+3.3.4 On
+the Effective Date, WGN will acquire the Acquired Shares and the PayNovi Shares pursuant to the terms of this Agreement for its
+own account for investment only and not with a view toward, or for resale in connection with, the public sale or any distribution
+thereof. In making the decision to purchase the Acquired Shares and the PayNovi Shares, each of WGN and FG, has relied upon an
+independent investigation of the Company and has not relied upon any information or representations made by any third parties or
+upon any oral or written representations or assurances from the Company, its officers, directors or employees or any other representatives
+or agents of the Company, other than as set forth in this Agreement. Each of WGN and FG is familiar with the business, operations
+and financial condition of the Company and has had an opportunity to ask questions of, and receive answers from, the Company’s
+officers and directors concerning the Company and the terms and conditions of the offering and sale of the Acquired Shares and
+has had full access to such other information concerning the Company as WGN or FG has requested
+
+3.3.5 No
+Public Market . Each of FG and WGN understands that there is no public market for the Acquired Shares or the PayNovi Shares
+and that no market may develop. Each of FG and WGN understands and acknowledges that WRMT is not under any obligation to register
+the Acquired Shares or the PayNovi Shares under the Securities Act or any state securities or “blue sky” laws. Each
+of FG and WGN acknowledges that at such time, if ever, as the Acquired Shares and/or the PayNovi Shares are registered, sales of
+such securities will be subject to state securities laws, and that any sales must comply in all respects with all applicable state
+securities laws, which may require any securities sold in such state to be sold through a registered broker-dealer or in reliance
+upon an exemption from registration.
+
+Each of FG and WGN
+understands and agrees that the Acquired Shares and the PayNovi Shares have not been registered under the Securities Act or any
+applicable state securities laws, by reason of their issuance or transfer, as the case may be, in a transaction that does not require
+registration under the Securities Act (based in part on the accuracy of the representations and warranties of WGN and FG
+contained herein), and that such Acquired Shares and PayNovi Shares must be held indefinitely unless a subsequent disposition is
+registered under the Securities Act or any applicable state securities laws or is exempt from such registration.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 10 of 18
+
+3.3.6 The
+Acquired Shares and the PayNovi Shares shall each bear the following or similar legend:
+
+THESE SECURITIES HAVE NOT
+BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND THESE
+SECURITIES MAY NOT BE OFFERED, SOLD, PLEDGED OR OTHERWISE TRANSFERRED EXCEPT (A) PURSUANT TO AN EFFECTIVE REGISTRATION
+STATEMENT FILED UNDER THE SECURITIES ACT, (B) TO A NON-U.S. PERSON IN AN OFFSHORE TRANSACTION IN ACCORDANCE WITH RULE 903 OR
+RULE 904 OF REGULATION S UNDER THE SECURITIES ACT, (C) PURSUANT TO THE RESALE LIMITATIONS SET FORTH IN RULE 905 OF
+REGULATIONS S UNDER THE SECURITIES ACT, (D) PURSUANT TO AN EXEMPTION FROM REGISTRATION PROVIDED BY RULE 144 UNDER THE
+SECURITIES ACT (IF AVAILABLE) OR (E) PURSUANT TO ANY OTHER EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES
+ACT, IN EACH CASE IN ACCORDANCE WITH ANY APPLICABLE SECURITIES LAWS OF ANY STATE OF THE UNITED STATES OR ANY OTHER
+JURISDICTION. HEDGING TRANSACTIONS INVOLVING THESE SECURITIES MAY NOT BE CONDUCTED UNLESS IN COMPLIANCE WITH THE SECURITIES
+ACT.
+
+3.3.7 The
+offer to issue the Acquired Shares was directly communicated to WGN. WGN is not purchasing the Acquired Shares or the PayNovi Shares
+as a result of or subsequent to any advertisement, article, notice or other communication published in any newspaper, magazine,
+or similar media or broadcast over television or radio, or presented at any seminar or meeting.
+
+3.3.8 Each
+of FG and WGN represents that the foregoing representations and warranties are true and correct as of the date hereof and agrees
+to indemnify WRMT of any misrepresentation upon which WRMT reasonably relies upon for the transactions contemplated in this Agreement.
+Unless WGN otherwise notifies WRMT prior to the Effective Date, the foregoing representations and warranties shall be true and
+correct as of the Effective Date.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 11 of 18
+
+Section
+4. Miscellaneous
+
+4.1. Assistance.
+Assignor will take all action and execute all documents as Assignee may reasonably request to effectuate the transfer of the Assigned
+Property and the vesting of complete and exclusive ownership of the Assigned Property in Assignee. In addition, Assignor will,
+at the request and sole cost and expense of Assignee, but without additional compensation, promptly sign, execute, make, and do
+all such deeds, documents, acts, and things as Assignee may reasonably require:
+
+(a) to
+apply for, obtain, register, maintain and vest in the name of Assignee alone (unless Assignee otherwise directs) Intellectual Property
+Rights protection relating to any or all of the Assigned Property in any country throughout the world, and when so obtained or
+vested, to renew and restore the same;
+
+(b) to
+defend any judicial, opposition, or other proceedings in respect of such applications and any judicial, opposition, or other proceedings
+or petitions or applications for revocation of such Intellectual Property Rights; and
+
+(c) to
+assist Assignee with the defense and enforcement of its rights in any registrations issuing from such applications and in all Intellectual
+Property Rights protection in the Intellectual Property.
+
+4.2 Power
+of Attorney. If at any time Assignee is unable, for any reason, to secure Assignor’s signature on any letters patent,
+copyright, or trademark assignments or applications for registrations, or other documents or filings pertaining to any or all of
+the Assigned Property, whether because of Assignor’s unwillingness, or for any other reason whatsoever, Assignor hereby irrevocably
+designates and appoints Assignee and its duly authorized officers and agents as its agents and attorneys-in-fact, to act for and
+on its behalf and stead to execute and file any and all such applications, registrations, and other documents and to do all other
+lawfully permitted acts to further the prosecution thereon with the same legal force and effect as if executed by Assignor.
+
+4.3 Indemnification
+of WGN . WRMT hereby agrees to defend, indemnify, and hold harmless WGN, and WGN’s officers, directors, shareholders,
+successors, and assigns, from and against all losses, liabilities, and costs including, without limitation, reasonable attorneys’
+fees, expenses, penalties, judgments, claims and demands of every kind and character that WGN, its officers, directors, shareholders,
+successors, and assigns may incur, suffer, or be required to pay arising out of, based upon, or by reason of:
+
+(i) any
+of the representations or warranties made by WRMT herein being untrue or incorrect at the time such representation or warranty
+was made; and
+
+(ii) any
+breach or non-performance by WRMT of any of its covenants, agreements or obligations under, this Agreement or the Exclusive Distributor
+Agreement.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 12 of 18
+
+4.4 Indemnification
+of WRMT . WGN hereby agrees to defend, indemnify, and hold harmless WRMT, and WRMT’s officers, directors, shareholders,
+successors, and assigns, from and against all losses, liabilities, and costs including, without limitation, reasonable attorneys’
+fees, expenses, penalties, judgments, claims and demands of every kind and character that WRMT, its officers, directors, shareholders,
+successors, and assigns may incur, suffer, or be required to pay arising out of, based upon, or by reason of:
+
+(i) any
+of the representations, covenants, or warranties made by WGN herein being untrue or incorrect at the time such representation or
+warranty was made;
+
+(iii) any
+breach, default or non-performance by WGN of any of its covenants, agreements or obligations under this Agreement or the Exclusive
+Distributor Agreement; or
+
+(iv) any
+use by WGN, its officers, directors, shareholders, employees or consultants of the Assigned Property prior to the date of this
+Agreement.
+
+4.5 Conduct
+of Claims .
+
+(i) Whenever
+a claim for indemnification shall arise under this Section as a result of a third party claim, the party seeking indemnification
+(the “ Indemnified Party ”), shall notify the party from whom such indemnification is sought (the “ Indemnifying
+Party ”) in writing of the Proceeding and the facts constituting the basis for such claim in reasonable detail; provided, that
+the Indemnified Party shall not be foreclosed by any failure to provide timely notice of the existence of a third party claim
+to the Indemnifying Party except to the extent that the Indemnifying Party has been materially prejudiced as a direct result of
+such delay;
+
+(ii) Such
+Indemnifying Party shall have the right to retain the counsel of its choice in connection with such Proceeding and to participate
+at its own expense in the defense of any such Proceeding; provided , however , that counsel to the Indemnifying Party
+shall not (except with the consent of the relevant Indemnified Party) also be counsel to such Indemnified Party. In no event shall
+the Indemnifying Party be liable for fees and expenses of more than one counsel (in addition to any local counsel) separate from
+its own counsel for all Indemnified Parties in connection with any one action or separate but similar or related actions in the
+same jurisdiction arising out of the same general allegations or circumstances; and
+
+Stock Exchange, Debt Forgiveness
+And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 13 of 18
+
+(iii) No
+Indemnifying Party shall, without the prior written consent of the Indemnified Parties (which consent shall not be unreasonably
+withheld), settle or compromise or consent to the entry of any judgment with respect to any litigation, or any investigation or
+proceeding by any governmental agency or body, commenced or threatened, or any claim whatsoever in respect of which indemnification
+could be sought under this Section u nless such settlement, compromise or consent (A) includes an unconditional release of
+each Indemnified Party from all liability arising out of such litigation, investigation, proceeding or claim and (B) does not include
+a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any Indemnified Party.
+
+4.6 Survival
+of the Representations, Warranties, etc. The respective representations, warranties, and agreements made herein by or on behalf
+of the Parties hereto shall survive the Effective Date and remain in full force and effect without limitation as to time, and the
+period during which a claim for indemnification may be asserted in connection therewith shall continue for the duration of the
+applicable statutes of limitation.
+
+4.7 Disclosure.
+Except to comply with applicable securities laws and regulations, each of FG and WGN agrees that he or it will not make any public
+comments, statements, or communications with respect to, or otherwise disclose the execution of this Agreement or the Exclusive
+Distributor Agreement or the terms and conditions of the transactions contemplated by this Agreement or the Exclusive Distributor
+Agreement without the prior written consent of WRMT, which consent shall not be unreasonably withheld.
+
+4.8 Notices.
+Any notice or other communication required or permitted under this Agreement shall be sufficiently given if delivered in person
+or sent by facsimile or by overnight registered mail, postage prepaid, addressed as follows:
+
+If to World Media & Technology Corp.:
+
+Attn: Seán McVeigh
+
+600 Brickell Ave., Suite 1775
+
+Miami, FL 33131
+
+If to World Global Network Pte. Ltd.:
+
+Attn: Fabio Galdi
+
+6 Battery Road, #27-03
+
+Singapore 049909
+
+Or such other address
+or number as shall be furnished in writing by any such Party, and such notice or communication shall, if properly addressed, be
+deemed to have been given as of the date so delivered or sent by facsimile.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 14 of 18
+
+4.9. Parties
+in Interest. This Agreement may not be transferred, assigned or pledged by any Party hereto, other than by operation of law without
+the prior written consent of the other Parties. This Agreement shall be binding upon and shall inure to the benefit of the Parties
+hereto and their respective heirs, executors, administrators, successors and permitted assigns.
+
+4.10. Entire
+Agreement. This Agreement and the other documents referred to herein contain the entire understanding of the Parties hereto with
+respect to the subject matter contained herein. This Agreement shall supersede all prior agreements and understandings between
+the Parties with respect to the transactions contemplated herein.
+
+4.11. Amendments.
+This Agreement may not be amended or modified orally, but only by an agreement in writing signed by all of the Parties.
+
+4.12 Time is of Essence.
+With regard to all dates and time periods set forth in this Agreement, time of is of essence.
+
+4.13. Severability.
+In case any provision in this Agreement shall be held invalid, illegal or unenforceable, the validity, legality and enforceability
+of the remaining provisions hereof will not in any way be affected or impaired thereby.
+
+4.14. Counterparts.
+This Agreement may be executed in any number of counterparts, including counterparts transmitted by telecopier, PDF or facsimile
+transmission, any one of which shall constitute an original of this Agreement. When counterparts of copies have been executed by
+all parties, they shall have the same effect as if the signatures to each counterpart or copy were upon the same document and copies
+of such documents shall be deemed valid as originals. The Parties agree that all such signatures may be transferred to a single
+document upon the request of any Party.
+
+4.15 Remedies
+Cumulative. Any and all remedies set forth in this Agreement: (i) shall be in addition to any and all other remedies the Parties
+may have at law or in equity, (ii) shall be cumulative, and (iii) may be pursued successively or concurrently as each of the Parties
+may elect. The exercise of any remedy by any Party shall not be deemed an election of remedies or preclude such Party from exercising
+any other remedies in the future. The prevailing Party in any Related Proceeding shall be entitled to recover his or its reasonable
+attorneys’ fees and costs (including experts’ and witness fees and costs) from the unsuccessful Party.
+
+4.16 Injunctive
+Relief. A breach of this Agreement may result in irreparable harm to Assignee and a remedy at law for any such breach will be inadequate,
+and in recognition thereof, Assignee will be entitled to injunctive and other equitable relief to prevent any breach or the threat
+of any breach of this Agreement by Assignor without showing or proving actual damages.
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 15 of 18
+
+4.17 Governing
+Law. Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or
+termination, shall be referred to and finally resolved by arbitration under the Rules of Arbitration of the International Chamber
+of Commerce, which Rules are deemed to be incorporated by reference into this clause. The number of arbitrators shall be one. The
+seat, or legal place, of arbitration shall be the State of New York, United States. The language to be used in the arbitration
+shall be English. The governing law of the contract shall be the substantive law of New York, United States.
+
+***Signature page follows***
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 16 of 18
+
+In
+Witness Whereof , each of the Parties hereto has caused its/his name to be hereunto subscribed as of the day and year
+first above written.
+
+WRMT:
+
+World Media & Technology Corp.
+
+By:
+/s/ Seán McVeigh
+
+Name: Seán McVeigh
+
+Title: Chief Executive Officer
+
+WGN:
+
+World Global Network Pte. Ltd.
+
+By:
+/s/ Gabriele Galdi
+
+Name:
+Gabriele Galdi
+
+Title:
+Director
+
+World Global Assets Pte. Ltd.
+
+By:
+/s/ Fabio Galdi
+
+Name:
+Fabio Galdi
+
+Title:
+Director
+
+FG:
+
+By:
+/s/ Fabio Galdi
+
+Name:
+Fabio Galdi
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 17 of 18
+
+EXHIBIT A
+
+PROPERTY
+
+All of the Technology, Intellectual Property and Intellectual
+Property Rights related to all prior and current versions of certain wearable devices known as Helo (“Helo Devices”),
+both in production and in development, including but not limited to the following elements:
+
+1) Computer Software –
+
+a) Glucose sensor/glucose algorithm assignment;
+
+b) Alcohol sensor integration into Helo wearable device (Everything other than Giner’s portion of ownership);
+
+c) Mosquito shield.
+
+d) Blood oxygenation
+
+2) Computer Hardware –
+
+a) Helo Classic
+
+b) Helo LX
+
+c) Helo LX plus ;
+
+See attached spec sheet
+
+d) Helo AI
+
+See spec sheet attached
+
+3) The following Trademarks and Logos
+
+a. Helo
+
+b. Life Sensing Technology
+
+c. Wor(l)d
+
+4) License to access/use the Application Programming Interface
+(API)
+
+a. See attached API Platform License Agreement
+
+5) The following domain names:
+
+a. Heloappstore.com
+
+i. Including all rights to run the app store
+
+b. Worldmediatechnology.com
+
+i. Including all rights to run this website
+
+c. Smartbands.com
+
+i. Including all rights to run this website
+
+See attached Domain Name Assignment Agreement
+
+Stock Exchange, Debt Forgiveness And
+
+Intellectual Property Assignment
+
+Agreement
+
+Page 18 of 18
+
+EXHIBIT B
+
+Strategic Partner Master Sales and World
+Wide Distribution Agreement
+
+[to be inserted]
