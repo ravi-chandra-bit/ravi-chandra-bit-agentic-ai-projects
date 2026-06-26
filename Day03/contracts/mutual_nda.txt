@@ -1,0 +1,5007 @@
+﻿SOURCE: U.S. SEC EDGAR
+FILER: INTERNATIONAL PAPER CO /NEW/  (IP, INPAP)  (CIK 0000051434)
+EXHIBIT TYPE: EX-10.1
+URL: https://www.sec.gov/Archives/edgar/data/51434/000005143417000048/exhibit101commitmentageeme.htm
+RETRIEVED: 2026-06-16
+======================================================================
+
+EX-10.1
+2
+exhibit101commitmentageeme.htm
+EXHIBIT 10.1
+
+Exhibit
+
+Exhibit 10.1
+EXECUTION VERSION
+
+THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT THE CONFIDENTIAL PORTION HAS BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND THE OMITTED MATERIAL HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANCE COMMISSION: [***]
+COMMITMENT AGREEMENT
+
+September 26, 2017 (the “ Commitment Agreement Date ”)
+
+The Prudential Insurance Company of America (“ Prudential ”) is pleased to provide, on the following terms, the non-participating single premium group annuity contract, supported by an insulated separate account (the “ Contract ”) for the Retirement Plan of International Paper Company (the “ Plan ”) in consideration of the mutual promises made and representations, warranties and covenants contained in this Commitment Agreement (this “ Commitment Agreement ”). For purposes of this Commitment Agreement, capitalized terms will have the meaning set forth in paragraph 9 . By signing this Commitment Agreement, Prudential and the International Paper Company (the “ Company ”) agree as follows:
+
+1.
+GAC Issuance and GAC Issuance True-Up Premium . Prudential agrees to issue the Contract as follows:
+
+a.
+Specimen GAC Form Issuance . On the Scheduled GAC Issuance Date, subject to Prudential’s receipt of the Premium Due Date Transfers and any GAC Issuance True-Up Premium due to Prudential and subject to the terms of paragraphs 1.b. and 1.c., Prudential will issue the Contract with an effective date that is the Premium Due Date. The Contract will be in substantially the form of the specimen group annuity contract (the “ Specimen GAC Form ”) attached hereto as Schedule 1 unless a Modified GAC Form is issued pursuant to and in accordance with paragraph 2.
+
+b.
+Form of Annuities and Payments under the Contract . The type, description and forms of annuities (e.g., single life annuity, joint and survivor annuity), payments under the Contract and other terms of the Contract will be consistent with the terms of Prudential’s proposal dated June 16, 2017 and September 22, 2017 (the “ Proposal ”) as updated to reflect (i) any modifications contemplated in Prudential’s Final Annuity Quote Sheet dated September 26, 2017 (the “ Final Annuity Quote Sheet ”) and (ii) any modifications mutually agreed to between the parties after the Commitment Agreement Date and before the 35 th Business Day prior to the Scheduled GAC Issuance Date. Subject to Prudential’s receipt of the Premium Due Date Transfers, Prudential will cooperate with the Company to make payments to Payees commencing on December 31, 2017 in accordance with the Proposal and the Final Annuity Quote Sheet until the Contract has been issued. The original annuity exhibit to the Contract will be consistent with the payees (including annuitants, contingent annuitants, alternate payees and beneficiaries) on Tab “Data Group 2” of the Base File.
+
+c.
+Necessary Data . As a condition to Prudential’s issuing the Contract, the Company will deliver or cause to be delivered to Prudential the data necessary for Prudential to prepare the annuity exhibit and the information necessary for Prudential to draft provisions of the Contract and administer the payments thereunder. If there are any delays in the delivery of the foregoing information based on the delivery dates set forth in Schedule 7 or such other delivery dates as may be designated by Prudential, Prudential may refer any Payee who contacts Prudential to the Company Contact for assistance and Prudential may, in its sole discretion, delay the mailing of Welcome Kits and annuity certificates. The annuity exhibit will not include any Payee for which Prudential has not been provided each of the following: (i) name, (ii) gender, (iii) date of birth and (iv) social security or federal taxpayer identification number.
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+d.
+Accuracy of Information . On and as of the Commitment Agreement Date and on and as of the date on which the Contract is issued, the Company represents and warrants to Prudential that, to the Company’s Knowledge and notwithstanding anything to the contrary in the Non-Disclosure Agreement, (i) the mortality experience data file provided by or on behalf of the Company to Prudential identified on Schedule 10 did not contain any misstatements or omissions that were, in the aggregate, material, and (ii) the data in respect of benefit amounts, date of birth, date of death, state of residence, gender, and status (beneficiary in pay or participant), in each case, with respect to the Payees that was furnished by or on behalf of the Company to Prudential, was not generated using any materially incorrect systematic assumptions or material omissions.
+
+e.
+GAC Issuance True-Up Premium . Schedule 8 provides a description of the methodologies and procedures by which Prudential will calculate the GAC Issuance True-Up Premium. Prudential and the Company will cooperate in good faith so that Prudential can calculate the GAC Issuance True-Up Premium, subject to the following acknowledgements, limitations and conditions:
+
+i.
+GAC Issuance Data . To the extent that the Company discovers or has any Removed Lives or Data Corrections after the Commitment Agreement Date and prior to the date that is 35 Business Days prior to the Scheduled GAC Issuance Date (the “ GAC Issuance Data Notice Date ”), the Company will provide written notice of such Removed Life or Data Correction as promptly as reasonably practicable to Prudential. Prudential will only be responsible for incorporating into the calculation of the GAC Issuance True-Up Premium those Data Corrections and Removed Lives that have been notified to Prudential by the Company on or prior to the GAC Issuance Data Notice Date together with any other Removed Lives and Data Corrections identified by Prudential (the “ GAC Issuance Data ”). Such incorporation is subject to Prudential’s agreement with such Removed Lives or Data Corrections and any limitations on incorporating such Data Corrections and Removed Lives into the GAC Issuance True-Up Premium set forth in Schedule 8.
+
+ii.
+GAC Issuance Annuity Exhibit . Twenty Business Days prior to the Scheduled GAC Issuance Date, Prudential will deliver to the Company a proposed annuity exhibit utilizing and consistent with the Base File and the GAC Issuance Data. Fifteen Business Days prior to the Scheduled GAC Issuance Date, the Company will respond to Prudential with any questions on the annuity exhibit. Prudential and the Company will cooperate in good faith to resolve any discrepancies on or prior to the eleventh Business Day prior to the Scheduled GAC Issuance Date and Prudential will reflect in the annuity exhibit any changes that have been agreed to on or prior to such eleventh Business Day. The annuity exhibit will not include any Payee for which Prudential has not been provided each of the following: (1) name, (2) gender, (3) date of birth and (4) social security or federal taxpayer identification number.
+
+iii.
+GAC Issuance True-Up Premium . Eight Business Days prior to the Scheduled GAC Issuance Date, Prudential will send the calculation of the GAC Issuance True-Up Premium to the Company for review. Five Business Days prior to the Scheduled GAC Issuance Date, the Company will respond to Prudential with any questions on the GAC Issuance True-Up Premium. If the Company and Prudential cannot resolve any dispute with respect to the GAC Issuance True-Up Premium on or prior to the date that is three Business Days prior to the Scheduled GAC Issuance Date, then Prudential’s determination will control for purposes of the GAC Issuance True-Up Premium but the Company may immediately commence an arbitration dispute pursuant to Schedule 4 with respect to the GAC Issuance True-Up Premium.
+
+iv.
+GAC Issuance True-Up Premium Payment . The GAC Issuance True-Up Premium will be paid on the Scheduled GAC Issuance Date as follows: (A) if the GAC Issuance True-Up Premium
+
+2
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+is a positive number, then the Company will pay or cause to be paid to Prudential an amount, in Cash, equal to the GAC Issuance True-Up Premium or (B) if the GAC Issuance True-Up Premium is a negative number, then Prudential will pay to the Plan Trust an amount, in Cash, equal to the absolute value of the GAC Issuance True-Up Premium.
+
+2.
+Negotiation of Modified GAC Form . After the Commitment Agreement Date, Prudential and the Company will each use commercially reasonable efforts to negotiate revisions to the Specimen GAC Form (the “ Modified GAC Form ”) and related forms of annuity certificates, subject to the following acknowledgements, limitations and conditions:
+
+a.
+Regulatory Approvals . Prudential will consider in good faith any revisions to the Specimen GAC Form, or any annuity certificate, that would require obtaining regulatory approval. If Prudential agrees in accordance with the prior sentence to seek any such regulatory approval, then (i) Prudential will use commercially reasonable efforts to obtain regulatory approvals of the Modified GAC Form prior to the date that is 90 Business Days after the Commitment Agreement Date (the “ Modified GAC Deadline Date ”) and (ii) Prudential will use commercially reasonable efforts to obtain regulatory approvals of customized annuity certificates prior to the annuity certificate mailing date set forth in paragraph 5.b.
+
+b.
+Modified GAC Form Issuance . If, in accordance with paragraph 2.a., the negotiation of the Modified GAC Form and the receipt of any related regulatory approvals for all negotiated changes to the Specimen GAC Form are completed by the Modified GAC Deadline Date, then, subject to Prudential’s receipt of the Premium Due Date Transfers and any GAC Issuance True-Up Premium due to Prudential, (i) if Prudential has not previously issued the Contract in the form of the Specimen GAC Form, Prudential will issue the Contract using the Modified GAC Form in lieu of the Specimen GAC Form, subject to and in accordance with paragraphs 1.a., 1.b. and 1.c., or (ii) if Prudential has previously issued the Contract in the form of the Specimen GAC Form subject to and in accordance with paragraphs 1.a., 1.b. and 1.c., Prudential will amend and restate the Contract so that its terms are replaced by the Modified GAC Form (or applicable provisions thereof). Such Contract will have an effective date that is the Premium Due Date.
+
+3.
+Premium Due Date Transfers . The Company agrees to pay Prudential the Premium Amount specified in Schedule 11 on the Premium Due Date by:
+
+(x)
+assigning, transferring and delivering to Prudential, by the Cut-Off Time, all rights, title and interests in and to each Eligible Asset, and
+
+(y)
+paying to Prudential an amount in Cash equal to [***].
+
+In addition, on the Premium Due Date, the Company will pay or cause to be paid to Prudential the Interim Asset Cash Flows (such payment, together with the payment of the Premium Amount, the “ Premium Due Date Transfers ”). [***]. On or before the Business Day following the Commitment Agreement Date, the Company shall or shall cause the Depository Trust Clearing Corporation to be instructed to transfer the Eligible Assets to Prudential on the Premium Due Date.
+
+a.
+Schedule 2 Updates . On the second Business Day after the Commitment Agreement Date, Prudential will deliver to the Company an updated Schedule 2 that reflects the Asset Market Value of each Schedule 2 Asset [***]. If the Company and Prudential cannot resolve any dispute with respect to any
+
+3
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+such information on or prior to the Premium Due Date, then Prudential’s determination will control for purposes of the Premium Due Date Transfers but the Company may immediately commence an arbitration dispute pursuant to Schedule 4 with respect to any such information. On the Premium Due Date, Prudential will, if needed, update Schedule 2 to reflect the removal of [***]. Prudential will, if needed, further update Schedule 2 to reflect the removal of [***] and is returned to the Plan Trust in accordance therewith.
+
+b.
+[***] . On and as of the Business Day prior to the Premium Due Date, Prudential will provide to the Company [***] in the form of Schedule 5 [***]. Prior to the Premium Due Date, the Company will confirm to Prudential in writing that such information is accurate and complete or will provide any additions, deletions or corrections to such information. If the Company and Prudential have a dispute with respect to any such information and cannot resolve such dispute on or prior to the Business Day prior to the Premium Due Date, then Prudential’s [***] information will control for purposes of the Premium Due Date Transfers but the Company may immediately commence an arbitration dispute pursuant to Schedule 4 with respect to any such information.
+
+c.
+[***] . By written notice to the other party on or before the fifth Business Day following the Premium Due Date, the Company or Prudential may identify [***] and the parties will work in good faith for seven Business Days following the receipt of such notice to agree on which, if any, [***]. If the parties agree that an asset is an Ineligible Asset within such seven Business Days following the receipt of such notice, then, on or before the date that is three Business Days following such agreement, the Company will promptly pay or cause to be paid to Prudential an amount, in Cash, equal to [***], and, simultaneously with receipt of such payment from the Company, Prudential will return [***] to the Plan Trust together with any Interim Asset Cash Flows associated [***].
+
+d.
+Additional Actions with respect to Assets . The Company will promptly give or cause to be given all notices that are required, under applicable law and the terms of each Eligible Asset, in connection with the sale, assignment, transfer and delivery of the Eligible Assets on the Premium Due Date. The Company and Prudential will promptly execute, deliver, record or file or cause to be executed, delivered, recorded or filed any and all releases, affidavits, waivers, notices or other documents that the Company or Prudential may reasonably request in order to implement the transfer of the Eligible Assets to Prudential.
+
+e.
+Plan Investments and ERISA Related Determinations . On and as of the Commitment Agreement Date, the Premium Due Date, and any other date on which the Company or Plan Trust pays cash or assets to Prudential in connection with the transactions contemplated by this Commitment Agreement or the Contract, the Company represents and warrants to Prudential that:
+
+i.
+there are no commingled investment vehicles that hold Plan Assets, the units of which are or will be Plan Assets involved in the transactions contemplated by this Commitment Agreement. No Plan Assets that are or will be involved in the transactions contemplated by this Commitment Agreement are or will be managed by any investment manager listed on Schedule 6, and no investment advisor listed on Schedule 6 renders or will render investment advice (within the meaning of ERISA § 3(21)(A)(ii)) with respect to those assets,
+
+ii.
+the transactions contemplated by this Commitment Agreement and the purchase of the Contract do not result in a Non-Exempt Prohibited Transaction,
+
+iii.
+the Plan Trust (A) will receive no less than “adequate consideration” for the Transferred Assets that are transferred in connection with the transactions contemplated by this Commitment Agreement and (B) will pay no more than “adequate consideration” for the Contract, in each case
+
+4
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+within the meaning of “adequate consideration” under ERISA § 408(b)(17)(B) and Code § 4975(f)(10), and
+
+iv.
+the Company is a fiduciary of the Plan under ERISA with respect to any transactions that the Plan engages in with Prudential (including purchase of the Contract) and is responsible for exercising independent judgment in evaluating those transactions. The Company is not an affiliate of Prudential and does not have a financial interest, ownership interest or other relationship, agreement or understanding with Prudential that would limit or might otherwise affect its ability to exercise its best judgment as a fiduciary. The Company holds, or has under management or control, total assets of at least $50 million, as described in 29 C.F.R. Sec. 2510.3-21 (c)(1)(i)(E) (as amended from time to time). The Company understands that Prudential is not undertaking to provide impartial investment advice, or to give advice in a fiduciary capacity, in connection with any transactions that the Plan engages in with Prudential (including purchase of the Contract) and that the Company is exercising independent judgment in evaluating the proposal.
+
+f.
+Relationship to the Plan . On and as of the Commitment Agreement Date and the Premium Due Date, Prudential represents and warrants to the Company that Schedule 6 sets forth a true and complete list of (i) Prudential and Prudential’s affiliates that are investment managers within the meaning of ERISA § 3(38) and (ii) without duplication of clause (i), Prudential and Prudential’s affiliates that are registered as investment advisers under the Investment Advisers Act of 1940; provided, however, that solely with respect to the representation and warranty on and as of the Premium Due Date, Prudential may update Schedule 6 through the Premium Due Date by providing a written update to the Company so that the information included therein is current on and as of the Premium Due Date.
+
+g.
+Risk of Loss on Transferred Assets; Gains on Transferred Assets . Prudential acknowledges and agrees that, if the Premium Due Date Transfers occur, then, from and after the Commitment Agreement Date, Prudential bears any and all risks associated with each Transferred Asset.
+
+4.
+Public Announcements .
+
+a.
+Press Releases . The Company and Prudential have the right to issue a transaction announcement or press release regarding the transactions contemplated by this Commitment Agreement, a copy of which will be provided to the other party for review no less than two days prior to the issuance thereof, and the party issuing the transaction announcement or press release will consider in good faith any comments made by the other party; provided, however, that, if the Company has not issued a transaction announcement or press release, Prudential will not issue a transaction announcement or press release without the prior written consent of the Company; provided, further, that nothing contained in this paragraph 4.a. will prevent Prudential from communicating with Payees, including through communications posted to Prudential’s website.
+
+b.
+SEC Filings . If the Company concludes that disclosure of this Commitment Agreement is required by the rules of the Securities and Exchange Commission (“ SEC ”), (i) the Company will, in good faith, consider whether to make an application with the SEC for confidential treatment of information that the Company concludes is competitively sensitive from the perspective of the Company, and (ii) the Company will provide Prudential with a copy of any material correspondence (written or oral) with the SEC regarding any such application for confidential treatment, and the Company and Prudential will otherwise reasonably cooperate in connection with any such application.
+
+5.
+Welcome Kits and Annuity Certificates .
+
+5
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+a.
+Welcome Kits . Beginning on December 11, 2017, Prudential will mail a welcome kit to each annuitant under the Contract (the “ Welcome Kit ”). Prudential will send a preliminary draft of the Welcome Kit to the Company as soon as practicable and Prudential will consider in good faith any comments made by the Company on or before the fifth Business Day after it receives the preliminary draft of the Welcome Kit from Prudential.
+
+b.
+Annuity Certificates . Prudential will mail an annuity certificate to each applicable Payee on or before the later of (i) 20 Business Days after the Contract is issued and (ii) 120 Business Days after the date on which the Welcome Kit is mailed to Payees, in each case, subject to receiving regulatory approvals for any such annuity certificate, if needed. To the extent that any changes are made to the forms of annuity certificates or the related benefit terms after the Company and Prudential have agreed on the forms of annuity certificates to be filed and the related benefit terms, the mailing of an annuity certificate to each applicable Payee shall be extended by the number of days elapsed since the Company and Prudential had first agreed on the forms of such annuity certificates and the related benefit terms.
+
+6.
+Administration and Transfer .
+
+a.
+Administrative Transition . The Company will provide or cause to be provided to Prudential the information needed to administer the payments under the Contract and will complete or cause to be completed all processes set forth in Schedule 7. The Company and Prudential will use commercially reasonable efforts to take or cause to be taken all actions and do or cause to be done all things necessary to coordinate the takeover by Prudential of all administration responsibilities necessary to effectively provide recordkeeping and administration services regarding payments under the Contract commencing on December 31, 2017. The Company will provide Prudential with final census data in good order on or before October 20, 2017 in order for Prudential to provide recordkeeping and administration services regarding payments under the Contract commencing on December 31, 2017. The Company agrees to cooperate with Prudential in the takeover of such recordkeeping and administration services, including ensuring that any third-party service provider provides Prudential with any information or records relating to the Plan benefits and the Payees in its possession. The Company will make subject matter experts available to promptly address any questions Prudential may have regarding the benefit provisions, including but not limited to forms of annuity, eligibility conditions, administrative practices and calculation methodology.
+
+b.
+Call Center and Company Contact . Prudential will maintain, at its cost and expense, a toll-free phone number and/or a website (the “ Call Center ”) which will be available starting from December 11, 2017 for Payees to contact Prudential with questions related to the Contract and the annuity certificates. For a period of five years following the Premium Due Date, the Company will maintain, at its cost and expense, a point of contact (the “ Company Contact ”) to which Prudential may refer Payees who pose questions related to their Plan benefits. In the event that a Payee contacts the Company with questions related to the Contract and the annuity certificates, the Company may refer the Payee to the Call Center. In the event that a Payee contacts Prudential with questions related to their Plan benefits, Prudential may refer the Payee to the Company Contact.
+
+7.
+[***]; Termination .
+
+6
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+a.
+[***] . In the event the Company breaches its obligation to pay the Premium Due Date Transfers in accordance with paragraph 3 or the Premium Due Date Transfers are not transferred to and received by Prudential in accordance with paragraph 3, the Company will promptly pay [***] in accordance with Schedule 9 [***]. [***].
+
+b.
+Termination . This Commitment Agreement may be terminated (i) at Prudential’s option if the Premium Due Date Transfers have not occurred in accordance with this Commitment Agreement on or prior to the Premium Due Date, or (ii) upon the payment of [***]. If this Commitment Agreement is terminated pursuant to the preceding sentence, all rights and obligations of the parties under this Commitment Agreement will terminate and will become null and void except that this paragraph 7 ([***]; Termination), paragraph 9 (Definitions), Schedule 9 ([***]), and paragraph 10 (Miscellaneous) will survive any such termination and no party will otherwise have any liability to any other party under this Commitment Agreement. However, nothing in this paragraph 7 will relieve any party from liability for any fraud or willful and material breach of this Commitment Agreement.
+
+8.
+No Commissions . On and as of the Commitment Agreement Date and the Premium Due Date, the Company represents and warrants that no fees, commissions or payments are or will be owed by the Company to any individual or entity in connection with the transactions contemplated by this Commitment Agreement and all other agreements it contemplates for which any other party, or its respective affiliates or representatives, could be liable.
+
+9.
+Definitions . For purposes of this Commitment Agreement, the following defined terms will have the following meanings:
+
+a.
+“ AAA ” is defined in Schedule 4.
+
+b.
+“ Annuity Start Date ” means December 31, 2017.
+
+c.
+“ Annual Benefit ” is defined in Schedule 8.
+
+d.
+“ Approved Firm ” is defined in Schedule 4.
+
+e.
+“ Asset Eligibility Criteria ” means the Asset Eligibility Criteria set forth on Schedule 3.
+
+f.
+“ Asset Market Value ” means (i) the close-of-market Fair Market Value of a Schedule 2 Asset as of the close of business on the Business Day prior to the Commitment Agreement Date, plus (ii) accrued interest on such Schedule 2 Asset as of the close of business on the Business Day prior to the Commitment Agreement Date. [***].
+
+g.
+“ Barclays ” means Barclays Capital Inc.
+
+h.
+“ Base File ” means the data file titled “[***]”, provided by the Company to Prudential posted to Willis Towers Watson OnePlace secure website at 9:06 p.m. eastern daylight time on September 6, 2017.
+
+i.
+“ Business Day ” means any day other than a Saturday, a Sunday or a day on which banks located in New York, New York are authorized or required by law to close.
+
+j.
+“ Call Center ” is defined in paragraph 6.b.
+
+k.
+“ Cash ” means a wire transfer, through the Federal Reserve System, of currency of the United States of America.
+
+l.
+“ Check Register ” is defined in Schedule 7.
+
+m.
+“ Code ” means the Internal Revenue Code of 1986 and the applicable Treasury Regulations issued thereunder.
+
+n.
+“ Commitment Agreement ” is defined in the preamble.
+
+o.
+“ Commitment Agreement Date ” is defined in the preamble.
+
+p.
+“ Company ” is defined in the preamble.
+
+7
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+q.
+“ Company Contact ” is defined in paragraph 6.b.
+
+r.
+“ Confidential Information ” has the meaning ascribed to such term in the Non-Disclosure Agreement.
+
+s.
+“ Contract ” is defined in the preamble.
+
+t.
+“ Corridor Breach ” is defined in Schedule 8.
+
+u.
+“ Cut-Off Time ” means 1:00 p.m. eastern daylight time on the Premium Due Date.
+
+v.
+“ Data Corrections ” is defined in Schedule 8.
+
+w.
+“ Data Correction Adjustment ” is defined in Schedule 8.
+
+x.
+“ Data Load File ” is defined in Schedule 7.
+
+y.
+“ Data Load File Sign-Off ” is defined in Schedule 7.
+
+z.
+“ Deleted Lives ” is defined in Schedule 8.
+
+aa.
+“ Deleted Lives Percentage ” is defined in Schedule 8.
+
+bb.
+“ Eligible Asset ” means a Schedule 2 Asset that meets the Asset Eligibility Criteria as of the Commitment Agreement Date and to which the Company or Plan Trust has valid title, free and clear of all Liens, other than Permitted Liens on the Premium Due Date at the time of transfer.
+
+cc.
+“ ERISA ” means Employee Retirement Income Security Act of 1974, as amended, and any federal agency regulations promulgated thereunder that are currently in effect and applicable.
+
+dd.
+“ Fair Market Value ” means the fair market value as of the applicable date for a Schedule 2 Asset in an amount equal to the fair market value as of such date for such Schedule 2 Asset as indicated (i) by the primary pricing source set forth in the table below that corresponds to the applicable asset class of such Schedule 2 Asset, (ii) if such primary pricing source is not available or no fair market value is indicated by such primary pricing source for such Schedule 2 Asset, by the secondary pricing source set forth in the table below that corresponds to the applicable asset class of such Schedule 2 Asset, or (iii) if neither such primary nor secondary pricing source is available or no fair market value is indicated by either such source for such Schedule 2 Asset, by the tertiary pricing source, if any, set forth in the table below that corresponds to the applicable asset class of such Schedule 2 Asset. For any applicable pricing source, the Mid Price will be used.
+
+Asset Class
+Primary Pricing Source
+Secondary Pricing Source
+Tertiary Pricing Source
+
+Treasuries
+IDC
+Reuters (EJV)
+Barclays
+
+Agencies
+IDC
+Reuters (EJV)
+Barclays
+
+IG Corp
+IDC
+Reuters (EJV)
+Barclays
+
+Emerging Market
+IDC
+Reuters (EJV)
+Barclays
+
+HY
+IDC
+Reuters (EJV)
+Barclays
+
+ee.
+“ Final Annuity Quote Sheet ” is defined in paragraph 1.b.
+
+ff.
+“ Final Production Data File ” is defined in Schedule 7.
+
+gg.
+“ GAC Issuance Data ” is defined in paragraph 1.e.i.
+
+hh.
+“ GAC Issuance Data Notice Date ” is defined in paragraph 1.e.i.
+
+ii.
+“ GAC Issuance True-Up Premium ” is defined in Schedule 8.
+
+jj.
+[***] .
+
+kk.
+“ IDC ” means Interactive Data Corporation.
+
+ll.
+[***] .
+
+mm.
+“ Interim Asset Cash Flows ” means, with respect to the Transferred Assets, the aggregate amount paid by the issuer of each asset to the record owner as of any day during the period from and including the
+
+8
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Commitment Agreement Date and to but excluding the date that the Premium Due Date Transfers occur, (i) with respect to any coupon, plus (ii) with respect to cash flows received on such assets, including but not limited to principal payments, principal redemptions and tender offers but not including coupons described in clause (i). For purposes of paragraph 3.b, which relates to “Schedule 2 Assets” instead of “Transferred Assets,” the reference in this definition to “Transferred Assets” shall instead refer to “Schedule 2 Assets.”
+
+nn.
+“ Knowledge ” means actual knowledge after making appropriate inquiry.
+
+oo.
+“ Liability Baseline Value ” is defined in Schedule 8.
+
+pp.
+“ Lien ” means any lien, mortgage, security interest, pledge, deposit, encumbrance, restrictive covenant or other similar restriction.
+
+qq.
+[***]
+
+rr.
+“ Mid Price ” means, for any applicable pricing source set forth in the definition of Fair Market Value, the mid price as provided by the pricing source.
+
+ss.
+“ Modified GAC Deadline Date ” is defined in paragraph 2.a.
+
+tt.
+“ Modified GAC Form ” is defined in paragraph 2.
+
+uu.
+“ Mortalities ” is defined in Schedule 8.
+
+vv.
+“ Mortality Corrections ” is defined in Schedule 8.
+
+ww.
+“ New Lives ” is defined in Schedule 8.
+
+xx.
+“ New Lives Percentage ” is defined in Schedule 8.
+
+yy.
+“ Non-Disclosure Agreement ” is defined in paragraph 10.c.
+
+zz.
+“ Non-Exempt Prohibited Transaction ” means a transaction prohibited by ERISA § 406 or Code § 4975, for which no statutory exemption or U.S. Department of Labor class exemption is available.
+
+[[.
+“ Payee ” means any payee under the Contract, including annuitants, contingent annuitants, alternate payees and beneficiaries, as applicable.
+
+aaa.
+“ Permitted Liens ” means:
+
+i.
+any Liens created by operation of law in respect of restrictions on transfer of securities (other than restrictions relating to the transfer of a Transferred Asset on the Premium Due Date in violation of applicable law); or
+
+ii.
+with respect to any Transferred Asset, any transfer restrictions or other limitations on assignment, transfer or the alienability of rights under any indenture, debenture or other similar governing agreement to which such assets are subject (other than restrictions relating to the transfer of such an asset on the Premium Due Date in violation of any such restriction).
+
+bbb.
+“ Plan ” is defined in the preamble.
+
+ccc.
+“ Plan Asset ” means an asset of the Plan within the meaning of ERISA.
+
+ddd.
+“ Plan Trust ” means International Paper Pension Trust.
+
+eee.
+“ Preliminary Production Data File ” is defined in Schedule 7.
+
+fff.
+“ Premium Amount ” is defined in Schedule 11.
+
+ggg.
+“ Premium Due Date ” means five Business Days following the Commitment Agreement Date .
+
+hhh.
+“ Premium Due Date Transfers ” is defined in paragraph 3 .
+
+iii.
+“ Proposal ” is defined in paragraph 1 .b.
+
+jjj.
+“ Prudential ” is defined in the preamble.
+
+kkk.
+[***] .
+
+lll.
+[***] .
+
+mmm.
+“ Relevant Percentage ” is defined in Schedule 8.
+
+nnn.
+“ Removed Lives ” is defined in Schedule 8.
+
+9
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+ooo.
+“ Reuters (EJV) ” means Thomson Reuters Markets, LLC.
+
+ppp.
+“ Scaled GAAP PBO ” is defined in Schedule 8.
+
+qqq.
+“ Schedule 2 Asset ” means each asset listed from time to time on Schedule 2 [***].
+
+rrr.
+“ Scheduled GAC Issuance Date ” means on or before April 18, 2018 or, if applicable, and, if later, by the date that is five Business Days following the final resolution of any arbitration disputes in accordance with Schedule 4.
+
+sss.
+“ SEC ” is defined in paragraph 4.b.
+
+ttt.
+“ Specimen GAC Form ” is defined in paragraph 1.a.
+
+uuu.
+“ Transferred Asset ” means each Eligible Asset transferred to and received by Prudential by the Cut-Off Time on the Premium Due Date. Until valid title to an Eligible Asset has transferred to Prudential, such asset is not a Transferred Asset.
+
+vvv.
+“ Transferred Asset Market Value ” means (i) the close-of-market Fair Market Value of a Transferred Asset as of the close of business on the Business Day prior to the Commitment Agreement Date, plus (ii) accrued interest on such Transferred Asset as of the close of business on the Business Day prior to the Commitment Agreement Date.
+
+www.
+“ Transferred Asset Valuation ” means the sum of the Transferred Asset Market Value for each Transferred Asset.
+
+xxx.
+“ Update File ” is defined in Schedule 7.
+
+yyy.
+“ Welcome Kit ” is defined in paragraph 4.b.
+
+10.
+Miscellaneous .
+
+a.
+This Commitment Agreement, together with the Schedules to this Commitment Agreement, which are incorporated by reference and made a part of this Commitment Agreement as if fully set forth herein, constitutes the sole and entire agreement of the parties to this Commitment Agreement with respect to the subject matter contained herein and therein. The parties each hereby acknowledge that they jointly and equally participated in the drafting of this Commitment Agreement and all other agreements contemplated hereby, and no presumption will be made that any provision of this Commitment Agreement will be construed against any party by reason of such role in the drafting of this Commitment Agreement or any other agreement contemplated hereby. No amendment of any of the provisions hereof shall be effective unless set forth in writing and signed by each party hereto. No waiver by any party of any of the provisions hereof shall be effective unless explicitly set forth in writing and signed by the party so waiving. No failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from this Commitment Agreement shall operate or be construed as a waiver thereof; nor shall any single or partial exercise of any right, remedy, power, or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+
+b.
+This Commitment Agreement shall be governed by and construed in accordance with the internal laws of the State of New York without giving effect to any choice or conflict of law provision or rule (whether of the State of New York or any other jurisdiction). Any legal suit, action, or proceeding arising out of or relating to this Commitment Agreement or the transactions contemplated hereby may be instituted in the courts of the State of New York in each case located in the city of New York and County of New York, and each party hereby irrevocably submits to the non-exclusive jurisdiction of such courts in any suit, action, or proceeding. The parties agree that irreparable damage would occur if any provisions of this Commitment Agreement were not performed in accordance with the terms hereof and that the parties shall be entitled to equitable relief, including injunctive relief or specific performance of the terms hereof,
+
+10
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+in addition to any other remedy to which they are entitled at law or in equity. To the fullest extent permitted by law, none of the parties will be liable to any other party for any punitive or exemplary damages of any nature in respect of matters arising out of this Commitment Agreement.
+
+c.
+Notwithstanding anything to the contrary in the Mutual Non-Disclosure Agreement, dated as of May 18, 2017, between the Company and Prudential (the “ Non-Disclosure Agreement ”), the Non-Disclosure Agreement shall continue in full force and effect except that, if the Premium Due Date Transfers are transferred to and received by Prudential, (a) the Non-Disclosure Agreement shall continue indefinitely and shall not be terminated without the mutual written agreement of the Company and Prudential and (b) Prudential will not be required to return or destroy any Confidential Information and will not be restricted in its use or disclosure of any Confidential Information related to Payees, annuity payments under the Contract or the pricing or underwriting of the Contract, received from another party, provided, that Prudential will use such Confidential Information only in compliance with all applicable laws relating to privacy of personally identifying information.
+
+[ Remainder of Page Intentionally Left Blank ]
+
+11
+
+Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+IN WITNESS WHEREOF, the Company and Prudential have executed this Commitment Agreement as of the date first written above.
+
+INTERNATIONAL PAPER COMPANY
+THE PRUDENTIAL INSURANCE COMPANY OF AMERICA
+
+By: _/s/_Errol Harris ______________________
+By: _/s/_Margaret G. McDonald ____________
+
+Print Name: _Errol Harris __________________
+Print Name: _ Margaret G. McDonald ________
+
+Title: _ Vice President and Treasurer __________
+
+Title: _ Administrative Vice President _________
+
+Commitment Agreement Signature Page
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 1
+to
+Commitment Agreement
+SPECIMEN GAC FORM
+Attached.
+
+1
+Schedule 1 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+SAMPLE BUY-OUT CONTRACT ([***])
+
+The Prudential Insurance Company of America
+Newark, New Jersey
+
+Contract-Holder:
+NAME OF CONTRACT-HOLDER
+Plan:
+NAME OF RETIREMENT PLAN
+
+Employer: NAME OF EMPLOYER
+
+[***]:
+[***]
+Jurisdiction:
+STATE OF JURISDICTION
+
+Effective Date:
+MM DD, YYYY
+Contribution Amount as of Effective Date:
+$XXX,XXX
+
+Pages Attached: 1-XX, Annuity Exhibits
+
+NAME OF CONTRACT-HOLDER
+
+By: SAMPLE
+Title:
+
+Date:
+THE PRUDENTIAL INSURANCE COMPANY
+OF AMERICA
+655 Broad Street
+Newark, New Jersey 07102-4410
+
+SAMPLE
+Chairman and Chief Executive Officer
+
+SAMPLE
+Secretary
+Attest: _____________________________
+Date:
+
+Single-Premium Non-Participating Group Annuity Contract [***] providing for Annuity Payments, subject to the provisions of this Contract. The Annuity Payments hereunder do not vary based on any gains or losses of the assets held in the Separate Account.
+
+Initially a Buy-Out Contract supported by a Dedicated Separate Account
+
+TABLE OF CONTENTS
+PROVISION I DEFINITIONS, SEPARATE ACCOUNT OPERATION AND TERMINATION OF CONTRACT 3
+1.1 Definitions 3
+1.2 Agreement to Pay Contribution Amount; [***] 5
+1.3 Agreement to Make Annuity Payments; Associated Withdrawals from the Separate Account 6
+1.4 The Separate Account that Supports this Contract 6
+1.5 Investments Held in Separate Account; Insulation of Separate Account Assets 6
+1.6 Insulation of Separate Account Assets 6
+1.7 Expenses; Establishing Reserves; Withdrawal of Assets from the Separate Account 7
+1.8 Process for Making Annuity Payments 7
+1.9 Persons Entitled to Enforce this Contract 8
+1.10 Termination of Contract 8
+1.11 Small Account Conversion 8
+PROVISION II PAYMENT TERMS AND CONDITIONS FOR FORMS OF ANNUITIES 8
+2.1 Covered Lives, Contingent Lives, and Beneficiaries 8
+2.2 Definitions 9
+2.3 Annuity Forms 9
+2.4 No Assignment by Covered Lives and Contingent Lives 11
+2.5 Proof of Continued Existence for Life Annuities; Escheatment 11
+
+2
+
+2.6 Misstatements 12
+2.7 Concerning Designations 13
+2.8 Concerning Qualified Domestic Relations Orders 14
+2.9 Payments to Representatives 14
+2.10 Certificates 14
+PROVISION III GENERAL TERMS 15
+3.1 Communications 15
+3.2 Currency; Payments 15
+3.3 Reliance on Records; Correction of Errors 15
+3.4 Contract-Holder; Successor 15
+3.5 No Implied Waiver 16
+3.6 Changes 16
+3.7 Entire Contract - Construction 16
+3.8 Third Party Beneficiaries 16
+
+ANNUITY EXHIBITS
+
+3
+
+Provision I Definitions, Separate Account Operation and Termination of Contract
+
+1.1
+Definitions
+
+In addition to other capitalized terms defined in this Contract, the following capitalized terms shall have the meanings indicated, which definitions shall control in the event a term is also defined in the Annuity Exhibits:
+“Aggregate Monthly Payment” means, for each month, the total amount of Annuity Payments payable in respect of all Covered Lives (and, if applicable, Contingent Lives and Beneficiaries) for such month, subject to adjustment as provided in this Contract.
+“Annuity Exhibits” means the Annuity Exhibits attached hereto on the Effective Date, as amended and supplemented pursuant hereto.
+“Annuity Commencement Date” means the date the Annuity Payments commence in respect of a Covered Life and, if applicable, Contingent Life and Beneficiary, which is specified on the Annuity Exhibits.
+“Annuity Payments” means, with respect to each Covered Life and, if applicable, Contingent Life and Beneficiary), the amount, if any, determined in accordance with Provision II of this Contract.
+“Beneficiary” means a person, other than a Covered Life or a Contingent Life, shown in Prudential’s records as the beneficiary associated with such Covered Life or, after the death of a Covered Life, associated with a Contingent Life. A Beneficiary may receive Annuity Payments under this Contract after the death of a Covered Life or Contingent Life if so provided for under the Annuity Form applicable to the Covered Life. A Representative of a Beneficiary shall have the rights of a Beneficiary hereunder. A Beneficiary is not a party to this Contract and has no rights hereunder, except those expressly conferred on it in Section 1.9.
+“Business Day” means any weekday on which the banks in New York City, New York are open for business. If any payment under this Contract is due and payable on a day which is not a Business Day, or if any notice or report is required to be given on a day which is not a Business Day, such payment shall be due and payable or such notice or report shall be given on the next succeeding Business Day.
+“Code” means the Internal Revenue Code of 1986, as amended from time to time, or any successor statute.
+“Commingled Account” means the Non-Participating Group Annuity Separate Account of Prudential. This commingled separate account may hold assets supporting the payment obligations of Prudential under this Contract following a Small Account Conversion in accordance with Section 1.11. Such separate account also supports Prudential’s payment obligations under other group annuity contracts issued by Prudential. Each such contract obligates Prudential to make payments to the contract-holder and/or to individual covered lives, contingent lives and
+
+4
+
+beneficiaries in amounts measured by the life-span of such covered lives, by any lump sum amounts due, by the remaining portion of any period certain annuities.
+“Contingent Life” means a person listed on the Annuity Exhibits as entitled to a periodic payment following the death of the Covered Life in accordance with a joint and survivor Form of Annuity, but does not include any Beneficiary. A Contingent Life is not a party to this Contract and has no rights hereunder, except those expressly conferred on it in Section 1.9. A Representative of a Contingent Life shall have the rights of a Contingent Life hereunder.
+“Contingent Life Amount” means an amount that is specified in the Annuity Exhibits for the Covered Life’s Annuity Form as the “Contingent Life Amount.”
+“Contract” means this Group Annuity Contract, including the Annuity Exhibits attached hereto, as amended from time to time.
+“Contract-Holder” means the entity named as such on the Cover Page of this Contract, and any successors or permitted assigns.
+“Contribution Amount” means the amount specified as such on the Cover Page of this Contract.
+“Covered Life” means each Immediate Covered Life listed on the Annuity Exhibits as entitled to a periodic payment specified in the Annuity Exhibits, but does not include any Contingent Life or any Beneficiary. A Covered Life is not a party to this Contract and has no rights hereunder, except those expressly conferred on it in Section 1.9. A Representative of a Covered Life shall have the rights of a Covered Life hereunder.
+“Covered Life Amount” means an amount that is specified in the Annuity Exhibits for the Covered Life’s Annuity Form as the “Covered Life Amount.”
+“Dedicated Account” means the [***] Separate Account of Prudential. This separate account will only hold assets supporting the payment obligations of Prudential under this Contract and Affiliate Contracts. After a Small Account Conversion in accordance with Section 1.11, the assets of this separate account may be transferred to the Commingled Account.
+“Effective Date” means the date specified as such on the Cover Page of this Contract.
+“Employer” means the NAME OF PLAN SPONSOR.
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, or any successor statute.
+“General Account” means the general account of Prudential.
+“Immediate Covered Life” means each person listed on the Annuity Exhibits as entitled to a periodic and/or lump-sum payment specified on the Annuity Exhibits whose Annuity Commencement Date is on or before MM DD, YYYY. An Immediate Covered Life is not a party to
+
+5
+
+this Contract and has no rights hereunder, except those expressly conferred on it in Section 1.9 hereof.
+“Market Value” means the fair market value of such assets, as such fair market value is determined by Prudential in accordance with its standard procedures for establishing the market value of its assets.
+“Plan” means the plan specified on the Cover Page of this Contract.
+“Prudential” means The Prudential Insurance Company of America, its successors and permitted assigns.
+“Prudential’s Office” means the following office of Prudential, unless Prudential provides a notice specifying another address for certain or all communications:
+The Prudential Insurance Company of America
+655 Broad Street
+Newark, New Jersey 07102-4410
+Attention: Group Annuity Operations
+“Qualified Domestic Relations Order” means a qualified domestic relations order that meets the requirements of ERISA as applied to employee benefit plan participants in effect from time to time.
+“Representative” means, with respect to a Covered Life or Contingent Life or Beneficiary, an individual or entity demonstrating to the reasonable satisfaction of Prudential that such individual or entity is duly appointed (a) as a guardian of such Covered Life or Contingent Life or Beneficiary, (b) as a holder of a power of attorney from such Covered Life or Contingent Life or Beneficiary, (c) as a trustee of such Covered Life or Contingent Life or Beneficiary or (d) as a testamentary executor of such Covered Life’s or Contingent Life’s or Beneficiary’s estate; provided, that a “Representative” does not include an assignee of the rights of such person hereunder in contravention of Provision II.
+“Separate Account” means the Dedicated Account unless the Commingled Account is substituted for the Dedicated Account in accordance with Section 1.11, after which the Separate Account means the Commingled Account. This Contract does not participate in the investment or other experience of either the Dedicated Account or the Commingled Account.
+
+1.2
+Agreement to Pay Contribution Amount; Deposit into the Separate Account
+
+[***].
+Upon receipt of the Contribution Amount due on the Effective Date, Prudential agrees to pay the Annuity Payments due under this Contract and further agrees that such obligation shall thereupon be irrevocable.
+
+6
+
+[***]. All assets allocated by Prudential to the Separate Account held by a custodian will be held by Prudential in one or more custody accounts at entities independent of Prudential and each such custody account shall only hold assets allocated to the Separate Account.
+
+1.3
+Agreement to Make Annuity Payments; Associated Withdrawals from the Separate Account
+
+Subject to receipt of the full Contribution Amount, Prudential agrees to pay Annuity Payments due from and after the Effective Date.
+[***].
+[***].
+[***].
+
+1.4
+The Separate Account that Supports this Contract
+
+During the period starting on the Effective Date and ending on the earlier of (i) the consummation of a Small Account Conversion and (ii) the payment of the last Annuity Payment due under this Contract, the Dedicated Account shall be the “Separate Account” supporting Annuity Payments hereunder. After consummation of a Small Account Conversion, the Commingled Account shall be the “Separate Account” supporting Annuity Payments hereunder.
+
+1.5
+Investments Held in Separate Account; Insulation of Separate Account Assets
+
+Each Separate Account is intended to be invested primarily in investment-grade fixed income securities, but other investments are permitted. Prudential will invest and reinvest the assets of each Separate Account at the time and in the amounts as Prudential determines in its discretion and in accordance with applicable law. Prudential may, with respect to any assets held in each Separate Account, delegate Prudential’s investment management and/or voting rights to other entities, including institutions not affiliated with Prudential.
+
+1.6
+Insulation of Separate Account Assets
+
+Prudential owns all the assets in each Separate Account. Pursuant to Section 17B:28-9(c) of the New Jersey Insurance Statutes, (A) none of the assets allocated to the Dedicated Account, [***] and (B) none of the assets allocated to the Commingled Account, [***], will be chargeable with liabilities arising out of any other business of Prudential.
+
+1.7
+Expenses; Establishing Reserves; Withdrawal of Assets from the Separate Account
+
+Expenses may be charged against the Separate Account. Such expenses shall represent the direct and indirect costs (inclusive of general and administrative expenses) relating to this Contract and the Separate Account and shall be charged against the Separate Account in accordance with statutory accounting principles. Expense payables and withdrawals from the Separate Account will include custody fees applicable to the Separate Account, investment management related expenses, taxes due on the Separate Account earnings and general and administrative expenses
+
+7
+
+allocated to the Separate Account. If Prudential’s General Account pays such expenses or contractual obligations, then a payable owed by the Separate Account shall arise, and Prudential’s General Account shall be later reimbursed by charging the Separate Account.
+[***].
+Periodically, Prudential will compare (A) the statutory carrying value of the assets held in the Separate Account reduced by payables related to expenses and to Contract obligations (and, following a Small Account Conversion, obligations of the other contracts supported by the Commingled Account) due on or prior to the date of determination, to (B) the statutory liability for the contractual annuity benefits with respect to the Contract (and, from and after a Small Account Conversion, the statutory liability for the other contracts supported by the Commingled Account), plus any interest maintenance reserve established for the Separate Account.
+If the amount described in clause (B) exceeds the amount described in clause (A), then Prudential will establish and fund reserves in the General Account in support of this Contract equal to the amount by which (B) exceeds (A) on such date of determination; otherwise such reserves will be zero.
+[***].
+A withdrawal from the Separate Account will be made only on a Business Day, and the assets withdrawn will no longer be allocated to the Separate Account.
+
+1.8
+Process for Making Annuity Payments
+
+From and after the later of the Annuity Commencement Date and the date Prudential receives information reasonably required by it to enable it to make Annuity Payments directly to Covered Lives (and, if applicable, Contingent Lives and Beneficiaries) (such as information concerning addresses, bank accounts, income tax withholding, designation of Beneficiaries and Qualified Domestic Relations Orders), Prudential shall make Annuity Payments arising after such date directly to such Covered Lives, Contingent Lives and Beneficiaries. Prior to receipt of such information, Prudential may withhold Annuity Payments until it receives such information, whereupon it shall pay Annuity Payments, without interest, directly to Covered Lives (and, if applicable, Contingent Lives and Beneficiaries).
+
+1.9
+Persons Entitled to Enforce this Contract
+
+(a)
+Covered Lives and Contingent Lives. Any Covered Life or Contingent Life shall have the right to enforce his or her right to receive Annuity Payments under this Contract against Prudential in the capacity of an intended third party beneficiary thereof. The rights of a Covered Life or Contingent Life are not diminished if Contract-Holder ceases to exist and no successor is appointed.
+
+(b)
+Contract-Holder and the Plan. Contract-Holder shall have the right to enforce any provision of this Contract against Prudential. Neither Contract-Holder nor the Plan shall have any
+
+8
+
+obligation to any Covered Life or Contingent Life with respect to the Annuity Payments under this Contract.
+
+(c)
+Prudential. Prudential shall have the right to enforce any provision of this Contract against Contract-Holder.
+
+1.10
+Termination of Contract
+
+This Contract will terminate on the date that no further amounts are payable by either party hereunder.
+
+1.11
+Small Account Conversion
+
+If at any time the Market Value of the assets held in the Dedicated Account does not equal at least $XX million Prudential reserves the right to discontinue the Dedicated Account. In the event of such discontinuance, Prudential may transfer (such transfer, a “Small Account Conversion”) the assets held in the Dedicated Account to the Commingled Account, subject to the receipt of all necessary consents and approvals, including regulatory approvals including those relating to the transfer of assets from the Dedicated Account to the Commingled Account.
+
+Provision II Payment Terms and Conditions for Forms of Annuities
+
+2.1
+Covered Lives, Contingent Lives, and Beneficiaries
+
+The amount owed by Prudential under this Contract in respect of each Covered Life (and, if applicable, Contingent Life and Beneficiary) will be determined by Prudential in accordance with the terms of this Provision II.
+Prudential will apply the terms of this Provision II using the information contained in the Annuity Exhibits with respect to such Covered Life, Contingent Life, and Beneficiary as such information is updated or corrected pursuant to this Contract. Capitalized terms used but not defined in Section 1.1 have the meanings assigned in this Provision II.
+
+2.2
+Definitions
+
+The following definitions apply to Section 2.3.
+“ Annuity Forms ” means in respect of a Covered Life, one of the types of annuities having such payment terms as are specified in Section 2.3.
+
+2.3
+Annuity Forms
+
+(i)
+“ Period Certain Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Period Certain” Annuity Form.
+
+Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date.
+
+9
+
+Prudential will pay subsequent monthly payments on the first day of each month. The total number of monthly payments will equal the Guaranteed Number of Payments specified for the Covered Life in the Annuity Exhibits. Once such Guaranteed Number of Payments has been paid, no further payments are due.
+If the Covered Life dies after the Annuity Commencement Date, Prudential will determine the number of monthly payments Prudential made to the Covered Life after the Annuity Commencement Date. If the number of monthly payments made is less than such Guaranteed Number of Payments, then Prudential will pay the Covered Life Amount to the designated Beneficiary. These payments to such Beneficiary will stop when the total number of payments to the Covered Life, plus the number of payments to the Beneficiary, equals the Guaranteed Number of Payments.
+
+(ii)
+“ Life and Period Certain Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Life and Period Certain” Annuity Form.
+
+During the Covered Life’s lifetime, Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date. Prudential will pay subsequent monthly payments on the first day of each month. Prudential’s last monthly payment to the Covered Life will be on the first day of the month in which the Covered Life dies.
+Prudential will then compare the number of monthly payments Prudential made to the Covered Life after the Annuity Commencement Date to the Guaranteed Number of Payments specified for the Covered Life in the Annuity Exhibits. If the number of monthly payments is less than such guaranteed number, Prudential will pay the Covered Life Amount each month to the designated Beneficiary. These payments will stop when the total number of payments to the Covered Life, plus the number of payments to the Beneficiary, equals the Guaranteed Number of Payments.
+
+(iii)
+“ Life Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Life” Annuity Form.
+
+Prudential does not owe any payments to anyone under this Annuity Form if the Covered Life has died before the Annuity Commencement Date.
+During the Covered Life’s lifetime, Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date. Prudential will pay subsequent monthly payments on the first day of each month. Prudential’s last monthly payment to the Covered Life will be on the first day of the month in which the Covered Life dies.
+
+(iv)
+“ Joint and Survivor Life Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Joint and Survivor” Annuity Form.
+
+10
+
+During the Covered Life’s lifetime, Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date. Prudential will pay subsequent monthly payments on the first day of each month. Prudential’s last monthly payment to the Covered Life will be on the first day of the month in which the Covered Life dies.
+After the Covered Life dies, Prudential may owe additional monthly payments. Prudential will owe additional monthly payments if the Contingent Life (as specified in the Annuity Exhibits) is alive when the Covered Life dies. Prudential will pay the first payment on the first day of the month following the Covered Life’s death. Prudential will pay subsequent monthly payments on the first day of each month. Prudential will pay the last payment on the first day of the month in which such Contingent Life dies. The amount of the payments will equal the Contingent Life Amount.
+
+(v)
+“ Joint and Survivor Life with Period Certain Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Joint and Survivor with Period Certain” Annuity Form.
+
+During the Covered Life’s lifetime, Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date. Prudential will pay subsequent monthly payments on the first day of each month. Prudential’s last monthly payment to the Covered Life will be on the first day of the month in which the Covered Life dies.
+After the Covered Life dies, Prudential may owe additional monthly payments. Prudential will owe additional monthly payments if the Contingent Life (as specified in the Annuity Exhibits) is alive when the Covered Life dies. Prudential will pay the first payment on the first day of the month following the Covered Life’s death. Prudential will pay subsequent monthly payments on the first day of each month. Prudential will pay the last payment to the Contingent Life on the first day of the month in which such Contingent Life dies. The amount of the payments will equal the Covered Life Amount until the total number of monthly payments made to both the Covered Life and the Contingent Life is equal to the Guaranteed Number of Payments specified for the Covered Life in the Annuity Exhibits. Thereafter monthly payments to the Contingent Life will be equal to the Contingent Life Amount.
+After the death of the second to die of the Covered Life and the Contingent Life, Prudential will compare the number of monthly payments Prudential made to the Covered Life and the Contingent Life after the Annuity Commencement Date to the Guaranteed Number of Payments specified for the Covered Life in the Annuity Exhibits. If the number of monthly payments is less than such guaranteed number, Prudential will pay the Covered Life Amount each month to the designated Beneficiary. These payments will stop when the total number of payments to the Covered Life, plus the number of payments to the Contingent Life and the designated Beneficiary, equals the Guaranteed Number of Payments.
+
+11
+
+(vi)
+“ Temporary Annuity ” means the following for each Covered Life identified in the Annuity Exhibits as receiving a distribution of a “Temporary Annuity” Form.
+
+Prudential does not owe any payments to anyone under this Annuity Form if the Covered Life has died before the Annuity Commencement Date.
+During the Covered Life’s lifetime, Prudential will make monthly payments to the Covered Life equal to the Covered Life Amount. Prudential owes the first monthly payment on the Annuity Commencement Date, if the Covered Life is living. Prudential will pay subsequently monthly payments on the first day of each month. Payments end with the monthly payment payable on the earlier of the temporary annuity expiry date specified in the Annuity Exhibits and the first day of the month in which the Covered Life dies.
+
+2.4
+No Assignment by Covered Lives and Contingent Lives
+
+Neither a Covered Life or Contingent Life nor such person’s Representative may (a) assign, pledge, transfer or otherwise alienate his or her rights under the Contract or their respective Annuity Form or an annuity certificate, or (b) enter into a transaction in which one or more Annuity Payments are anticipated or accelerated. Any attempt to do so shall be null and void at the outset, without any effect whatsoever. Also, to the maximum extent permitted by law, including but not limited to the relevant provisions of the Code, no Annuity Payment is subject to the claims of creditors. For the avoidance of doubt, compliance with the terms of a Qualified Domestic Relations Orders will not be considered to be an impermissible alienation under the Contract.
+
+2.5
+Proof of Continued Existence for Life Annuities; Escheatment
+
+As a condition to making any Annuity Payment arising from an Annuity Form dependent upon the continued existence of a Covered Life or Contingent Life, Prudential may require the receipt of evidence satisfactory to it that the Covered Life and/or the Contingent Life is alive and no such payment is owed under this Contract unless and until Prudential receives such evidence.
+If a Covered Life (or Contingent Life) in respect of whom remaining guaranteed payments are payable at the time of his or her death, dies without validly designating a Beneficiary, or if the Beneficiary is no longer living, Prudential may pay the “present value” (as such term is defined in Section 2.7) thereof in full settlement of its liability for such payments. Such present value may be paid to the estate of the Covered Life (or, Contingent Life, if applicable). After the period of time prescribed by applicable state law, any payments under a Payment Certain Annuity or lump sum benefit that have been withheld under the terms of this Section 2.5 may be considered abandoned or escheatable property. In such case, Prudential will follow the laws applicable to the disposition of any remaining period certain payments or remaining lump sum benefit payable. Any payments made to the state under such circumstances will relieve Prudential of all further obligations under this Contract with respect to such Annuity Forms.
+
+2.6
+Misstatements
+
+12
+
+The parties shall endeavor to agree to an equitable adjustment of the Contribution Amount caused by misstatements of (A) the date of birth, date of death, or the sex of a Covered Life or (if applicable) of a Contingent Life, or any other fact relevant to determining the amount or duration of the Annuity Payments owed by Prudential under the specified Annuity Form or the determination of the Contribution Amount charged by Prudential in respect to such Annuity Form or (B) the monthly payment amount or Annuity Form specified in the Annuity Exhibits (when compared to such payment amounts or benefit forms owed by the Plan to its participants) (each, a “data misstatement”).
+If, after such endeavors, equitable agreement is not reached between the Contract-Holder and Prudential with respect to such data misstatement, then with respect to misstatements described in (A) above Prudential will determine the portion of the Contribution Amount allocated to the Annuity Form for such Covered Life (and, if applicable, Contingent Life). The Annuity Payment owed by Prudential in respect of such Covered Life (and, if applicable, Contingent Life) will be increased or decreased to equal the amount that could have been purchased for such Covered Life (and, if applicable, Contingent Life) using the premium paid in respect of such Covered Life (and, if applicable, Contingent Life) assuming that the data misstatement had not occurred. Also, Prudential will not change the date of the first monthly payment. In making the preceding determinations and adjustments, Prudential in addition will use the following process:
+
+(i)
+If the corrected Annuity Payment owed by Prudential in respect of such Covered Life (and, if applicable, Contingent Life) is less than the Annuity Payment calculated using the data misstatement, then such Annuity Payment will be decreased to the amount calculated pursuant to this paragraph. Prudential may reduce future Annuity Payments further by amounts previously overpaid by Prudential.
+
+(ii)
+If the corrected Annuity Payment owed by Prudential in respect of such Covered Life (and, if applicable, Contingent Life) is more than the Annuity Payment calculated using the data misstatement, then such Annuity Payment will be increased to the amount calculated pursuant to this paragraph. Prudential will further pay the amount of the underpayments in one or more Annuity Payments owed by Prudential.
+
+In addition to changing the amount of Annuity Payments, the adjustments made pursuant to this Section 2.6 may change other important terms of payment. For example, the Annuity Form for such Covered Life (or, if applicable, Contingent Life) may change, the percentage of the Annuity Payment owed by Prudential that is payable to the Contingent Life may change, and, whether there is any Contingent Life entitled to receive an Annuity Payment may change. All adjustments made pursuant to this Section 2.6 will be binding upon the Covered Life (and, if applicable, the Contingent Life). For the avoidance of doubt, the Annuity Exhibits will not be updated to reflect any actions taken by Prudential under this Section 2.6.
+
+2.7
+Concerning Designations
+
+A Covered Life may designate a Contingent Life or Beneficiary and redesignate a Beneficiary from time to time in such manner specified by Prudential and in accordance with such related Annuity Form. Prudential will furnish an acknowledgment of the acceptance of any such designation or re-
+
+13
+
+designation. Any spousal consent requirements of ERISA as applied to employee benefit plan participants in effect from time to time will apply to such designations. Such designations will not require the consent of any prior Contingent Life or Beneficiary, provided the change complies with the requirements of ERISA as applied to employee benefit plan participants in effect from time to time. If an Annuity Form involving a Contingent Life or spouse has become effective, the Contingent Life or spouse may, unless the Covered Life has directed otherwise, change the Beneficiary at any time after the death of the Covered Life to the estate of the Contingent Life or spouse, without the consent of such Beneficiary.
+If there is no designated Beneficiary shown in Prudential’s records when an Annuity Payment is payable to a Beneficiary under the terms of this Contract, payment will be made to the Covered Life’s spouse, if living, otherwise to the estate of the last surviving recipient of the Annuity Payments or a Representative thereof. However, if no executor is named for the estate of the last surviving recipient of the Annuity Payments, Prudential may, at its option, pay such amount which would otherwise be payable to an estate as described in the preceding sentence to any one or jointly to any number of the following surviving relatives of the last surviving recipient of the Annuity Payments who appear to Prudential to be equitably entitled to payment because of expenses incurred in connection with the burial or last illness of such last surviving recipient of the Annuity Payments: children, parents, brothers, or sisters. Any payment described in this paragraph and made by Prudential will, to the extent of such payment, be a valid discharge of its obligation under this Contract.
+The parties agree with each other that the acceptability of such designations and re-designations of Beneficiaries will meet the requirements of ERISA as applied to employee benefit plan participants in effect from time to time, and shall keep their records accordingly. Such designations shall be effective when they are accepted by Prudential and the applicable records are updated.
+Prudential, in determining the existence, identity, ages, or any other facts relating to any relatives of any Covered Life (or Contingent Life) or any persons designated as Beneficiaries, either as a class or otherwise, may rely solely on any affidavit or other evidence deemed satisfactory by it. Any payment made by Prudential in reliance thereon will, to the extent of such payment, be a valid discharge of its obligation under this Contract.
+If any remaining Annuity Payments under a Period Certain Annuity become payable to one or more Beneficiaries, and if the monthly amount of the payments payable to any Beneficiary is less than $X, or if the Beneficiary is other than a natural person receiving payments in his own right, the Prudential may, in lieu of making such payments, pay the present value of the monthly payments to that Beneficiary in full settlement of its liability for such payments.
+The “present value” of Annuity Payments, as of any date of determination, means the single sum equivalent to the present value of such payments using the applicable interest rate set forth under Section 417(e)(3) of the Code (as such section may be amended or interpreted from time to time) for the month of _________ preceding the calendar year in which the lump sum payment is made.
+
+2.8
+Concerning Qualified Domestic Relations Orders
+
+14
+
+If an Annuity Payment is subject to a domestic relations order (as defined in subsection 414(p) of the Code), no adjustments or payments to a Covered Life or to an alternate payee pursuant to such order will become payable until (i) Prudential has so received any such domestic relations order, (ii) Prudential has received a copy of the domestic relations order after it has been qualified by the Contract-Holder or Prudential has so qualified the domestic relations order and (iii) Prudential has so approved the domestic relations order. Any such Annuity Payment adjustment will take effect when entered upon Prudential’s records.
+
+2.9
+Payments to Representatives
+
+Prudential may withhold Annuity Payments owed to any Covered Life or Contingent Life or Beneficiary if, in the judgment of Prudential, such person is incapable for any reason of personally receiving and giving a valid receipt for such payment. In such case, Prudential may discharge its obligation to any Covered Life or Contingent Life or Beneficiary by making payments to such person’s Representative. Prudential may pay to the Representative of a Covered Life or Contingent Life or Beneficiary amounts otherwise owed to such Covered Life or Contingent Life or Beneficiary if Prudential receives satisfactory evidence of such Representative’s authority. Any amount paid in accordance with this Section 2.9 will completely discharge the liability of Prudential for the amount paid.
+
+2.10
+Certificates
+
+Upon receipt of applicable regulatory approvals, Prudential will issue each Covered Life (and, if receiving Annuity Payments on the date annuity certificates are issued, a Contingent Life) an annuity certificate. Each such certificate will set forth in substance the payments to which each Covered Life (and, if applicable, a Contingent Life) is entitled under this Contract. Also, Prudential may issue a substitute annuity certificate to correct errors contained in the previously issued certificate, whereupon the previously issued annuity certificate shall be null and void.
+Each annuity certificate shall provide that only the Covered Life (and, if applicable, a Contingent Life) has the right to Annuity Payments under this Contract, and that such right to Annuity Payments is enforceable by the certificate-holder solely against Prudential and against no other person including the Plan, the Contract-Holder, or any affiliate thereof. Each certificate shall describe the consequences of any misstatements of age or other relevant fact, including Prudential’s rights and obligations relating to such misstatements.
+The rights of Covered Lives and Contingent Lives under this Contract are not conditioned upon the issuance of annuity certificates, and any delay in issuing an annuity certificate to such Covered Life or Contingent Life does not delay the date on which the Covered Life or Contingent Life begins to have third-party beneficiary rights under this Contract.
+
+Provision III General Terms
+
+3.1
+Communications
+
+All communications to Prudential regarding this Contract shall be addressed to Prudential’s Office.
+
+15
+
+Communications to Contract-Holder and Employer will be addressed as shown in our records, as updated from time to time on Prudential’s records based on notice provided by the Contract-Holder or Employer to Prudential.
+All communications to Contract-Holder, Employer or Prudential will be in writing.
+
+3.2
+Currency; Payments
+
+All moneys, whether payable to or by Prudential, shall be in lawful money of the United States of America. Dollars and cents refer to lawful currency of the United States of America. Payments owed to Prudential or to Contract-Holder shall be made pursuant to agreed procedures and wire instructions.
+
+3.3
+Reliance on Records; Correction of Errors
+
+Contract-Holder will furnish all information which Prudential may reasonably require for the administration of this Contract. If Contract-Holder cannot furnish any required item of information, Prudential may (but is not required to) ask the relevant Covered Life, Contingent Life or Beneficiary to provide such information. Prudential will not be obligated to make Annuity Payments in any way dependent upon such information unless and until it receives all information necessary to fulfill its obligation.
+Prudential will maintain the records necessary for its administration of this Contract. Such records will be prepared using the information furnished to it pursuant to this Contract and will constitute prima facie evidence as to the truth of the information recorded thereon. However, Prudential reserves the right to correct its records to eliminate erroneous information furnished to it and to reflect information it gathers reasonably believed by it to be reliable. Prudential may assume the accuracy of Contract-Holder’s records in connection with Covered Lives, Contingent Lives and Beneficiaries. Any payment made by Prudential in reliance on such records shall be a valid discharge of its obligation under this Contract.
+
+3.4
+Contract-Holder; Successor
+
+Prudential will be entitled to rely on any action taken or omitted by or on behalf of Contract-Holder pursuant to the terms of this Contract and shall not be required to obtain consents of any other person or organization with an interest in the Plan, except as provided in Section 1.9. With Prudential’s consent, Contract-Holder may authorize representatives of the Plan, Employer or others to act on its behalf under this Contract. Prudential is entitled to rely on Contract-Holder (or its representative) in connection with the administration of this Contract. Contract-Holder at any time may, with the consent of Prudential, appoint a successor Contract-Holder, provided that if the successor Contract-Holder is a trustee for the Plan, such consent shall not be unreasonably withheld. Any such successor Contract-Holder will have all the rights, duties, and obligations of Contract-Holder. If Contract-Holder notifies Prudential that it will cease to exist or cease to perform the duties of Contract-Holder hereunder and no successor Contract-Holder is appointed, the Contract-Holder will thereafter have no rights or obligations under this Contract but this Contract
+
+16
+
+shall nevertheless remain in full force and effect until the date on which there ceases to be any further Annuity Payments payable in accordance with the terms of this Contract.
+
+3.5
+No Implied Waiver
+
+Except as expressly provided herein, any party’s failure to insist in any one or more instances upon strict performance by any other party of any of the terms of this Contract shall not be construed as a waiver of any continuing or subsequent failure to perform or delay in performance of any term hereof.
+
+3.6
+Changes
+
+(a)
+Mutual Agreement . This Contract may be amended at any time by written agreement between Prudential, Employer and Contract-Holder.
+
+(b)
+Law or Regulation . Prudential may change this Contract as it deems necessary or appropriate to satisfy the requirements of any law enacted by (or of any regulation promulgated by) any legislative or governmental authority, body or agency.
+
+(c)
+Absence of Contract-Holder . If Contract-Holder notifies Prudential that it will cease to exist, or cease to perform the duties of Contract-Holder hereunder, and no successor to Contract-Holder is appointed, then this Contract can thereafter be changed at any time by Prudential in its discretion, but subject to the rights of each Covered Life, Contingent Life and Beneficiary to receive Annuity Payments (as provided in Section 1.9).
+
+3.7
+Entire Contract - Construction
+
+This Contract, together with the exhibits attached hereto, constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to the subject matter of this Contract.
+This contract will be construed according to the laws of the jurisdiction set forth on the Cover Page without regard to the principles of conflicts of laws thereof except to the extent that those laws have been preempted by the laws of the United States of America.
+
+3.8
+Third Party Beneficiaries
+
+Except as expressly set forth in Section 1.9, this Contract does not and is not intended to confer any rights or remedies upon any person other than the Contract-Holder.
+
+17
+
+A.B.C. Company
+ANNUITY EXHIBIT
+Immediate Covered Lives – Retired
+Annuity Commencement Date
+Annuity Form is Life Payment Certain Form of Annuity
+
+Covered Life
+Social Security Number
+Sex
+Date of Birth
+Covered Life Amount
+Guaranteed Number of Payments
+Lump Sum Death Benefit
+
+Schedule 2
+to
+Commitment Agreement
+LIST OF SCHEDULE 2 ASSETS
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+CUSIP
+ISIN
+Issuer Name
+Coupon
+Maturity Date
+Par Amount
+Full Market Value (USD)
+Flat Mid Price
+Flat Market Value (USD)
+Accrued Interest (Local)
+
+Attached.
+
+1
+Schedule 2 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+CUSIP
+ISIN
+ISSUER NAME
+COUPON
+MATURITY DATE
+PAR AMOUNT
+Full Market Value
+(USD)
+Flat Mid Price
+Flat Market Value
+(USD)
+Accrued Interest
+(Local)
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+[***]
+
+[***]
+
+Schedule 3
+to
+Commitment Agreement
+ASSET ELIGIBILITY CRITERIA
+In order for a Schedule 2 Asset to be eligible for transfer to Prudential as a Transferred Asset, each such asset must meet all of the following criteria (“ Asset Eligibility Criteria ”):
+
+1.
+[***].
+
+2.
+[***]:
+
+a.
+[***],
+
+b.
+[***],
+
+c.
+[***], or
+
+d.
+[***].
+
+3.
+[***].
+
+4.
+[***].
+
+5.
+[***].
+
+6.
+[***].
+
+7.
+[***].
+
+8.
+[***].
+
+1
+Schedule 3 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 4
+to
+Commitment Agreement
+ARBITRATION DISPUTE RESOLUTION
+
+1.
+Rules and Procedures . Any dispute between the parties referenced herein shall be resolved by arbitration conducted by one arbitrator, in accordance with Commercial Arbitration Rules and Expedited Procedures for Large, Complex Commercial Disputes of the American Arbitration Association (“ AAA ”), as such rules and procedures are in effect at the time of the arbitration, except as they may be modified herein or by mutual agreement of the Company and Prudential.
+
+2.
+Location . The seat of the arbitration shall be New York City, New York, at a mutually agreed upon location, or in the absence of agreement at the New York City offices of the AAA.
+
+3.
+Arbitrator . The Company and Prudential shall jointly engage a mutually agreed upon firm (such firm, the “ Approved Firm ”), within five Business Days after a dispute notice is delivered by either party to the other party to resolve any arbitration dispute. If the Company and Prudential are unable to engage an Approved Firm within such time period on such terms, then the AAA shall appoint an arbitrator within three Business Days thereafter.
+
+4.
+Damages . The arbitrator shall resolve any arbitration dispute within the range of difference between (a) any amounts or values as calculated or determined by Prudential and (b) any amounts or values as calculated or determined by the Company. The arbitrator will have no authority to award any other damages other than as provided for herein.
+
+5.
+Judgment . Any arbitration award shall be final and binding on the Company and Prudential. The Company and Prudential undertake to carry out any award without delay and waive their respective rights to any form of recourse based on grounds other than personal conflict of interest of the arbitrator that was undisclosed at the time of the arbitrator’s appointment. Judgment upon the award may be entered by any court having jurisdiction thereof or having jurisdiction over the Company or Prudential, as applicable, or their respective assets.
+
+6.
+Costs . The Company and Prudential shall share the fees and disbursements of the arbitrator equally (i.e., on a 50%/50% basis). The Company and Prudential shall each bear their own costs and expenses incurred in connection with prosecuting and/or defending any arbitration dispute.
+
+7.
+[***] . [***].
+
+8.
+Amended Schedules . If applicable, the Company and Prudential will promptly amend the schedules hereto to reflect any arbitration decision.
+
+1
+Schedule 4 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 5
+to
+Commitment Agreement
+[***]
+
+[***]
+[***]
+
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+1
+Schedule 5 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 6
+to
+Commitment Agreement
+INVESTMENT MANAGERS AND INVESTMENT ADVISERS
+
+1.
+Jennison Associates LLC
+
+Doing Business As:
+
+•
+Jennison
+
+•
+Jennison Associates
+
+2.
+Quantitative Management Associates LLC
+
+Doing Business As:
+
+•
+QMA
+
+3.
+PGIM, Inc.
+
+Doing Business As:
+
+•
+Prudential Investments
+
+•
+PGIM Investments
+
+•
+Prudential Capital Group
+
+•
+PGIM
+
+•
+PGIM Fixed Income
+
+•
+Prudential Fixed Income
+
+•
+PGIM Institutional Advisory & Solutions
+
+•
+PGIM Real Estate
+
+•
+Prudential Financial, Inc.
+
+•
+PREI
+
+•
+PGIM Real Estate Finance
+
+•
+Prudential Real Estate Investors
+
+•
+Pramerica Real Estate Investors
+
+•
+Prudential Real Estate Fixed Income Investors
+
+•
+PRICOA Capital Group
+
+•
+Prudential Capital Partners
+
+•
+Pramerica Capital Partners
+
+•
+Pramerica Investment Management – Fixed Income
+
+•
+PCG
+
+•
+PRICOA Capital Group Limited
+
+•
+PRICOA Capital Partners
+
+•
+Prudential Capital Energy Partners
+
+•
+PRICOA Capital Energy Partners
+
+•
+Pramerica Capital Energy Partners
+
+4.
+The Prudential Insurance Company of America
+
+Doing Business As:
+
+•
+Prudential Financial, Inc.
+
+5.
+Prudential Trust Company
+
+6.
+Prudential Retirement Insurance and Annuity Company
+
+7.
+PGIM Limited
+
+Doing Business As:
+
+1
+Schedule 6 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+•
+PGIM Fixed Income
+
+•
+PGIM Real Estate
+
+•
+PRICOA Capital Group
+
+•
+PGIM Real Estate Finance
+
+8.
+PGIM Fund Management Limited
+
+Doing Business As:
+
+•
+PGIM Real Estate
+
+9.
+Global Portfolio Strategies, Inc.
+
+10.
+PGIM Investments LLC
+
+Formerly Known As:
+
+•
+Prudential Investments LLC
+
+11.
+Prudential Private Placement Investors, L.P.
+
+12.
+AST Investment Services, Inc.
+
+13.
+Prudential International Investment Advisers, LLC
+
+14.
+Pruco Securities LLC
+
+Doing Business As:
+
+•
+Prudential Financial Planning Services
+
+15.
+PGIM Real Estate Finance, LLC
+
+Doing Business As:
+
+•
+PGIM Real Estate Finance
+
+•
+Prudential Agricultural Investments
+
+Formerly Known As:
+
+•
+PRICOA Mortgage Capital Company
+
+•
+Prudential Mortgage Capital Company
+
+16.
+EuroPRISA Management Company S.A.
+
+17.
+PGIM Real Estate Luxembourg S.A.
+
+18.
+Prudential Customer Solutions LLC
+
+2
+Schedule 6 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 7
+to
+Commitment Agreement
+ADMINISTRATION AND TRANSFER
+This Schedule 7 sets forth the actions that the Company and Prudential will take or cause to be taken at the times identified in the table below. All Delivery Dates after the first Delivery Date assume the prior delivery, to a party responsible for a subsequent deliverable, of relevant materials needed from other parties, on or prior to the required Delivery Dates set forth below, including cooperation of other parties in resolving any open issues.
+Defined Terms
+“ Check Register ” means an electronic file showing gross amounts, net amounts and deductions with respect to payments to each Payee. Dates shown for the Check Register can be changed if mutually agreed upon.
+“ Data Load File ” means the file as extracted from Prudential’s recordkeeping systems and reflected in a report provided to the Plan and Company.
+“ Data Load File Sign-Off ” means the written confirmation by the Plan that the Data Load File accurately reflects the data provided.
+“ Final Production Data File ” means the complete updated Preliminary Production Data File, reflecting all corrections since the Preliminary Production Data File and any addendums thereto.
+“ Preliminary Production Data File ” means the preliminary production data file, as populated based on information from the recordkeeper’s internal system.
+“ Update File ” means an itemized list of updates that should be made to the file that was last delivered.
+
+1
+Schedule 7 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Deliverable
+Delivery Date
+Action by the Company/Plan
+Action by Prudential
+
+Preliminary Production Data File
+September 29, 2017
+Deliver Preliminary Production Data File
+Receive and reconcile Preliminary Production Data File to begin data cleanse and data mapping
+
+Check Register (as of September 30, 2017 and October 1, 2017)
+September 29, 2017
+Deliver Check Register
+Receive Check Register
+
+Final Production Data File
+October 20, 2017
+Deliver Final Production Data File
+Receive Final Production Data File
+
+Check Register (as of October 31, 2017 and November 1, 2017)
+October 20, 2017
+Deliver Check Register
+Receive Check Register
+
+Update File
+November 20, 2017
+Deliver Update File
+Receive Update File
+
+Data Load File (related to Final Production Data File)
+November 22, 2017
+Receive Data Load File
+Deliver Data Load File
+
+Check Register (as of November 31, 2017 and December 1, 2017)
+November 22, 2017
+Deliver Check Register
+Receive Check Register
+
+Data Load File Sign-Off (related to Final Production Data File)
+November 30, 2017
+Approve Data Load File
+Receive Data Load File Sign-Off
+
+Update File
+December 4, 2017
+Deliver Update File
+Receive Update File
+
+2
+Schedule 7 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 8
+to
+Commitment Agreement
+GAC ISSUANCE TRUE-UP PREMIUM
+This Schedule provides a description of the methodologies and procedures by which Prudential will calculate the GAC Issuance True-Up Premium.
+[***].
+[***]. [***].
+[***]. [***].
+[***]. [***].
+[***].
+[***].
+
+1.
+[***] .
+
+[***]:
+
+a.
+[***],
+
+b.
+[***],
+
+c.
+[***],
+
+d.
+[***],
+
+e.
+[***],
+
+f.
+[***],
+
+g.
+[***],
+
+h.
+[***],
+
+i.
+[***],
+
+j.
+[***], or
+
+k.
+[***],
+
+[***]. [***]. [***].
+[***].
+[***]. [***]. [***].
+
+2.
+[***] .
+
+[***]. [***].
+[***]. [***].
+
+1
+Schedule 8 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+3.
+[***] .
+
+a.
+[***]
+
+[***]. [***].
+
+b.
+[***]
+
+[***]. [***].
+[***]. [***].
+
+4.
+[***] .
+
+[***]:
+[***]
+Where
+
+(4A)
+[***];
+
+(4B)
+[***];
+
+(4C)
+[***].
+
+(4D)
+[***].
+
+5.
+[***] .
+
+[***].
+[***]
+Where
+
+(5A)
+[***];
+
+(5B)
+[***];
+
+(5C)
+[***].
+
+(5D)
+[***].
+
+(5E)
+[***].
+
+(5F)
+[***].
+
+(5G)
+[***]:
+
+(i)
+[***].
+
+(ii)
+[***].
+
+[***]
+
+6.
+[***] .
+
+[***]. [***].
+
+2
+Schedule 8 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+7.
+[***] .
+
+[***].
+
+8.
+[***] .
+
+[***]. [***].
+
+9.
+[***] .
+
+[***]. [***]:
+
+a.
+[***].
+
+b.
+[***].
+
+c.
+[***].
+
+d.
+[***].
+
+10.
+[***] . [***].
+
+3
+Schedule 8 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 9
+to
+Commitment Agreement
+[***]
+[***].
+[***]
+(x) [***],
+[***]
+(y) [***].
+where:
+[***].
+[***].
+[***]. [***].
+
+1
+Schedule 9 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 10
+to
+Commitment Agreement
+HISTORICAL MORTALITY DATA
+Historical Mortality Data means the data files titled:
+
+a.
+“[***]”, provided by the Company to Prudential posted to Willis Towers Watson OnePlace secure website at 3:05 p.m. eastern daylight time on July 24, 2017.
+
+b.
+“[***]”, provided by the Company to Prudential posted to Willis Towers Watson OnePlace secure website at 3:30 p.m. eastern daylight time on August 3, 2017.
+
+c.
+“[***]”, provided by the Company to Prudential posted to Willis Towers Watson OnePlace secure website at 5:30 p.m. eastern daylight time on September 7, 2017.
+
+d.
+“[***]”, provided by the Company to Prudential posted to Willis Towers Watson OnePlace secure website at 8:44 p.m. eastern daylight time on September 13, 2017.
+
+1
+Schedule 10 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017
+
+Schedule 11
+to
+Commitment Agreement
+PREMIUM AMOUNT
+For purposes of this Agreement, the “Premium Amount” shall be $[***].
+
+1
+Schedule 11 to Commitment Agreement, dated September 26, 2017
+Subject to Mutual Non-Disclosure Agreement, dated as of May 18, 2017

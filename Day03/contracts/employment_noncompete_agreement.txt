@@ -1,0 +1,67 @@
+﻿SOURCE: U.S. SEC EDGAR
+FILER: PJT Partners Inc.  (PJT)  (CIK 0001626115)
+EXHIBIT TYPE: EX-10.17
+URL: https://www.sec.gov/Archives/edgar/data/1626115/000156459016013745/pjt-ex1017_1106.htm
+RETRIEVED: 2026-06-16
+======================================================================
+
+EX-10.17
+6
+pjt-ex1017_1106.htm
+EX-10.17
+
+pjt-ex1017_1106.htm
+
+Exhibit 10.17
+
+AMENDMENT TO
+
+PARTNER NON-COMPETITION AND NON-SOLICITATION AGREEMENT
+
+This Amendment to Partner Non-Competition and Non-Solicitation Agreement (this “ Amendment ”) is entered into as of October 1, 2015, by and between PJT Partners Holdings LP (the “ PJT Holdings ”) and Ji-Yeun Lee (the “ Partner ”) .
+
+WHEREAS , PJT Holdings (or its predecessor) and the Partner are parties to that certain Partner Non-Competition and Non-Solicitation Agreement, dated as of October 9, 2014 (the “ Partner Non-Competition and Non-Solicitation Agreement ”); and
+
+WHEREAS , PJT Holdings and the Partner desire to amend the terms of the Partner Non-Competition and Non-Solicitation Agreement, in accordance with this Amendment, effective upon and subject to the consummation of the separation of PJT Partners Inc. from The Blackstone Group L.P. (the “ Closing ”).
+
+NOW, THEREFORE , in consideration of the continued service of the the Partner to PJT Holdings, the covenants contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1. Section IV.C of the Partner Non-Competition and Non-Solicitation Agreement Agreement is hereby deleted in its entirety and replaced with the following:
+
+Forfeiture of Other Equity Interests . In the event of any breach of this Non-Competition Agreement, the Partner Agreement or any limited liability company agreement, partnership agreement or other governing document of PJT Holdings to which such Partner is a party, or any termination for Cause (as defined in Section 5 of the Partner Agreement) of such Partner’s services other than with respect to the Founder LTIP Units and Founder Earn-Out Units (such other interests, the “ Other Equity Interests ”), (i) such Partner shall no longer be entitled to receive payment of any amounts that would otherwise be payable to such Partner following such Partner’s withdrawal as a Partner, member or partner, as the case may be, of PJT Holdings (including, without limitation, return of such Partner’s capital contributions), (ii) all of such Partner’s remaining Partner, member, partner or other interests (including, without limitation, carried interests) in PJT Holdings (whether vested or unvested and whether delivered or not yet delivered) shall immediately terminate and be null and void, (iii) all of the securities of PJT Holdings (whether vested or unvested and whether delivered or not yet delivered) held by or to be received by such Partner or such Partner’s personal planning vehicle(s) shall be forfeited, (iv) no further such interests or securities will be awarded to such Partner, and (v) all unrealized gains (by investment) related to such Partner’s side-by-side investments will be forfeited. Notwithstanding anything to the contrary contained herein or in any other agreement between the Partner and PJT Holdings, no Other Equity Interests in respect of PJT Holdings or PJT Partners Inc. that have been vested by the Partner for a period of at least two years shall be subject to forfeiture or clawback (if any) in the event of a breach of this Agreement or a termination for Cause.
+
+2. General
+
+(a) In the event that the Closing does not occur, this Amendment shall be null and void.
+
+(b) Except as specifically provided in this Amendment, the Partner Non-Competition and Non-Solicitation Agreement shall remain in full force and effect and is hereby ratified and confirmed. To the extent a conflict arises between the terms of the Partner Agreement and this Amendment, the terms of this Amendment shall prevail.
+
+(c) This Amendment may be executed in one or more counterparts, each of which shall be deemed an original and shall have the same effect as if the signatures hereto and thereto were on the same instrument.
+
+[Remainder of page intentionally left blank]
+
+WHEREOF, the parties hereto have duly executed this Amendment to Partner Non-Competition and Non-Solicitation Agreement as of the date first above written.
+
+PJT PARTNERS HOLDINGS L.P.
+
+By:
+
+PJT PARTNERS INC., its general partner
+
+By:
+
+/s/ James W. Cuminale
+
+Name:
+
+James W. Cuminale
+
+Title:
+
+General Counsel
+
+By:
+
+/s/ Ji-Yeun Lee
+
+Ji-Yeun Lee
